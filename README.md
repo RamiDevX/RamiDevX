@@ -1,5 +1,27 @@
 <div align="center">
+name: Generate Snake
 
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,35:071d6b,65:1247d6,100:00d4ff&height=200&section=header&text=Rami%20Bitar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=62&desc=Computer%20Programming%20Student%20%C2%B7%20Developer&descSize=16&descAlignY=78&descColor=a8d8ff&stroke=00d4ff&strokeWidth=1" width="100%"/>
 
 <br/>

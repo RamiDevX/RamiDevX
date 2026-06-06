@@ -3,7 +3,7 @@
 
 # 👋 Rami Bitar
 
-**Full-Stack Developer | Bot Engineer | Automation Specialist**
+**Computer Programming student  | Bot Engineer | Automation Specialist**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RamiDevX&color=1abc9c&style=flat-square)
 ![Open to Internship](https://img.shields.io/badge/Open_to-Internship-1abc9c?style=flat-square)

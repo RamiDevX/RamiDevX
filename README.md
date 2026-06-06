@@ -84,18 +84,6 @@ Telegram bot delivering scheduled Islamic dhikr reminders to groups, channels, a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=RamiDevX&show_icons=true&theme=transparent&title_color=1abc9c&text_color=ffffff&border_color=1abc9c&bg_color=ffffff&icon_color=1abc9c)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamiDevX&layout=compact&theme=transparent&title_color=1abc9c&text_color=ffffff&border_color=1abc9c&bg_color=ffffff)
-
-</div>
-
----
-
 ## 📬 Contact & Links
 
 ### Professional

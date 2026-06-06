@@ -1,151 +1,88 @@
-<!-- ================= HEADER ================= -->
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+# Rami Bitar 🚀
 
-# ⚙️ AUTO LAB
+**Full-Stack Developer | Bot Engineer | Automation Enthusiast**
 
-### Automation & Backend Engineering | Bot Development | Systems Design
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+
+![GitHub Followers](https://img.shields.io/github/followers/RamiDevX?style=flat-square&color=1abc9c)
+![Profile Views](https://komarev.com/ghpvc/?username=RamiDevX&color=1abc9c&style=flat-square)
 
 </div>
 
 ---
 
-<!-- ================= BADGES ================= -->
+## 👋 About Me
+
+Computer Programming student passionate about building **intelligent automation systems** and **scalable applications**. I specialize in bot development and backend engineering with a focus on clean, efficient code.
+
+Currently **open to internship opportunities** to apply my skills in real-world environments.
+
+---
+
+## 💡 What I Build
+
+🤖 **Telegram Bots** - Smart automation for groups, channels, and individuals  
+🔧 **Backend Systems** - APIs, webhooks, and automation engines  
+💻 **Web Projects** - Interactive and responsive web applications  
+🎮 **IoT & Robotics** - Arduino-based projects and embedded systems  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · JavaScript · HTML/CSS  
+**Backend:** Flask · FastAPI · REST APIs  
+**Automation:** Telegram Bot API · Task Scheduling · WebHooks  
+**Tools:** Git · GitHub · Linux · VS Code  
+
+---
+
+## ⭐ Featured Project
+
+### 🔔 **Noorify Bot** - Reminder & Dhikr Assistant
+- **100+ active users** across Telegram groups and channels
+- Automated daily reminders with Quranic verses and Islamic supplications
+- Multi-platform support (groups, channels, individuals)
+- Smart scheduling and notification system
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff88&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?color=00ff88&style=flat-square)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?color=00ff88&style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-00ff88?style=flat-square)
+[**Email**](mailto:ramibitar.connct@gmail.com) • 
+[**Telegram**](https://t.me/ramibitar) • 
+[**GitHub**](https://github.com/RamiDevX) • 
+[**LinkedIn**](https://linkedin.com/in/rami-bitar-16479936b) • 
+[**X/Twitter**](https://x.com/RamiBitar_dev)
+
+[**Linktree**](https://linktr.ee/ramibitarr) • 
+[**Instagram**](https://www.instagram.com/ramibitarr) • 
+[**Facebook**](https://www.facebook.com/share/1CJPw8tjwy/) • 
+[**Automation Lab**](https://t.me/AutoLabOfficial) • 
+[**Noorify Bot**](https://t.me/Noorify_bot)
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+## 📍 Location
 
-## 🧠 About AUTO LAB
-
-AUTO LAB is a personal engineering lab focused on building **automation systems, bots, and backend tools**.
-
-I turn ideas into systems that run automatically with minimal human intervention.
-
----
-
-## ⚙️ What I Do
-
-- 🤖 Telegram Bot Development  
-- ⚙️ Automation Systems  
-- 🔌 Backend APIs  
-- 🧰 Developer Tools  
-- 🧪 Experimental Projects  
-
----
-
-## 🧰 Tech Stack
-
-### Programming Languages
-- Python 🐍  
-- JavaScript 🌐  
-- HTML / CSS  
-
-### Backend
-- Flask  
-- FastAPI  
-- REST APIs  
-- Webhooks  
-
-### Automation
-- Telegram Bot API  
-- Task Scheduling  
-- Script Automation  
-
-### Tools
-- Git & GitHub  
-- Linux Basics  
-- VS Code  
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🤖 AutoBot Framework | Modular Telegram bot system | ⚙️ Active |
-| ⚙️ AutoTask Engine | Automation engine for tasks | ⚙️ Active |
-| 🔔 AutoNotify System | Event notification system | 🧪 Beta |
-| 🧰 DevTools Kit | Developer utility tools | 🧪 Beta |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&icon_color=00ff88)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff88)
-
-</div>
-
----
-
-## 🔥 Activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
-
-</div>
-
----
-
-## 🧠 Current Focus
-
-- Building scalable automation systems  
-- Improving backend architecture skills  
-- Developing production-ready bots  
-- Expanding AUTO LAB ecosystem  
-
----
-
-## ⚡ Philosophy
-
-<div align="center">
-
-> Build once. Automate forever.
-
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-00ff88?style=for-the-badge&logo=telegram)](https://t.me/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-00ff88?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-## 🧪 AUTO LAB Identity
-
-A software engineering lab focused on:
-
-- Automation-first systems  
-- Backend engineering  
-- Developer tools  
-- Bot ecosystems  
+**Email:** ramibitar.connct@gmail.com
 
 ---
 
 <div align="center">
 
-⚙️ AUTO LAB — Engineering Intelligent Systems
+> *"وَذَكِّرْ فَإِنَّ الذِّكْرَىٰ تَنفَعُ الْمُؤْمِنِينَ"*  
+> And remind, for indeed, the reminder benefits the believers.
+
+**Building the future, one automation at a time.** ⚙️
 
 </div>

@@ -1,30 +1,8 @@
-<div align="center">
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,35:071d6b,65:1247d6,100:00d4ff&height=200&section=header&text=Rami%20Bitar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=62&desc=Computer%20Programming%20Student%20%C2%B7%20Developer&descSize=16&descAlignY=78&descColor=a8d8ff&stroke=00d4ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,35:071d6b,65:1247d6,100:00d4ff&height=200&section=header&text=Rami%20Bitar&fontSize=48&fontColor=ffffff&animation=fadeIn&descAlignY=65&descAlign=62&desc=Full-Stack%20Developer%20%7C%20Bot%20Engineer%20%7C%20Automation%20Enthusiast"/>
 
 <br/>
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RamiDevX&color=1a5eff&style=flat-square&label=Profile+Views)
 &nbsp;&nbsp;
@@ -32,11 +10,7 @@ jobs:
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/RamiDevX/RamiDevX/main/noorify-avatar.png" width="110"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Python+%26+Web+Developer+%F0%9F%90%8D;Telegram+Bot+Creator+%F0%9F%A4%96;Arduino+%26+Robotics+Enthusiast+%E2%9A%A1;Building+software+that+solves+real+problems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Python+%26+Web+Developer+🐍;Telegram+Bot+Engineer+🤖;Automation+Systems+⚙️;Let's+Build+Something+Amazing+🚀)]
 
 <br/>
 
@@ -66,32 +40,59 @@ Currently open to **internship opportunities** to contribute to development team
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,50:1247d6,100:00d4ff&height=2&section=header" width="100%"/>
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-020b18?style=for-the-badge&logo=python&logoColor=00d4ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-020b18?style=for-the-badge&logo=javascript&logoColor=00d4ff)
-![HTML5](https://img.shields.io/badge/HTML5-020b18?style=for-the-badge&logo=html5&logoColor=00d4ff)
-![CSS3](https://img.shields.io/badge/CSS3-020b18?style=for-the-badge&logo=css3&logoColor=00d4ff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tools & APIs**
+</div>
 
-![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-020b18?style=for-the-badge&logo=telegram&logoColor=00d4ff)
-![Git](https://img.shields.io/badge/Git-020b18?style=for-the-badge&logo=git&logoColor=00d4ff)
-![GitHub](https://img.shields.io/badge/GitHub-020b18?style=for-the-badge&logo=github&logoColor=00d4ff)
-![VS Code](https://img.shields.io/badge/VS_Code-020b18?style=for-the-badge&logo=visualstudiocode&logoColor=00d4ff)
+### 🔧 Backend & Frameworks
+<div align="center">
 
-**Hardware**
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0099FF?style=for-the-badge&logo=swagger&logoColor=white)
 
-![Arduino](https://img.shields.io/badge/Arduino-020b18?style=for-the-badge&logo=arduino&logoColor=00d4ff)
-![Robotics](https://img.shields.io/badge/Robotics-020b18?style=for-the-badge&logo=ros&logoColor=00d4ff)
+</div>
+
+### 🤖 Automation & Bots
+<div align="center">
+
+![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
+![Task Scheduling](https://img.shields.io/badge/Task%20Scheduling-4CAF50?style=for-the-badge&logo=clock&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF9800?style=for-the-badge&logo=rocket&logoColor=white)
+
+</div>
+
+### 🛠️ Tools & Platforms
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+### 🎮 Hardware & IoT
+<div align="center">
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:1247d6,100:020b18&height=2&section=header" width="100%"/>
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
-### 🤖 NoorifyBot — صدقة جارية رقمية
+### 🔔 NoorifyBot — صدقة جارية رقمية
 
 <div align="center">
 
@@ -101,13 +102,29 @@ Currently open to **internship opportunities** to contribute to development team
 
 A Telegram bot delivering scheduled Islamic dhikr reminders to groups, channels, and individuals.
 
-[![Active Users](https://img.shields.io/badge/Active_Users-100%2B-1a5eff?style=for-the-badge)](https://t.me/Noorify_bot)
-&nbsp;
-[![Try NoorifyBot](https://img.shields.io/badge/Try_NoorifyBot-%E2%86%92-00d4ff?style=for-the-badge&logo=telegram&logoColor=020b18)](https://t.me/Noorify_bot)
-&nbsp;
-[![Source Code](https://img.shields.io/badge/Source_Code-020b18?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RamiDevX/Noorify_Bot)
+**Status:** ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+**Users:** ![100+](https://img.shields.io/badge/Active%20Users-100%2B-brightgreen?style=flat-square)
+**Language:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+**Platform:** ![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat-square)
 
-`Python` · `Telegram Bot API` · `Task Scheduling`
+<br/>
+
+**Features:**
+- ✅ 100+ active users across multiple communities
+- ✅ Scheduled Quranic verses and Islamic reminders
+- ✅ Support for groups, channels, and DMs
+- ✅ Reliable 24/7 operation
+- ✅ Easy to use interface
+
+**Tech Stack:** `Python` · `Telegram Bot API` · `Task Scheduling` · `SQLite`
+
+<br/>
+
+[![Try NoorifyBot](https://img.shields.io/badge/📱_Try_NoorifyBot-0088cc?style=for-the-badge)](https://t.me/Noorify_bot)
+&nbsp;
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/RamiDevX/Noorify_Bot)
+&nbsp;
+[![Documentation](https://img.shields.io/badge/📚_Docs-1247d6?style=for-the-badge)]()
 
 </div>
 
@@ -119,33 +136,33 @@ A Telegram bot delivering scheduled Islamic dhikr reminders to groups, channels,
 
 A Telegram channel sharing automation tips, Python scripts, and development resources.
 
-[![Visit Channel](https://img.shields.io/badge/Automation_Lab-%E2%86%92-1a5eff?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/AutoLabOfficial)
+[![Visit Channel](https://img.shields.io/badge/Visit_Automation_Lab-0088cc?style=for-the-badge&logo=telegram)](https://t.me/AutoLabOfficial)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,50:1247d6,100:00d4ff&height=2&section=header" width="100%"/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=RamiDevX&theme=transparent&background=020b18&border=1a5eff&stroke=1a5eff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=7eb8ff&dates=7eb8ff&sideNums=ffffff&currStreakNum=ffffff"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=RamiDevX&theme=transparent&background=020b18&border=1a5eff&stroke=1a5eff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=7eb3d3&dateFormat=Y-m-d" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RamiDevX&show_icons=true&theme=transparent&title_color=00d4ff&text_color=ffffff&icon_color=1a5eff&border_color=1a5eff&bg_color=020b18"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RamiDevX&show_icons=true&theme=transparent&title_color=00d4ff&text_color=ffffff&icon_color=1a5eff&border_color=1a5eff&bg_color=020b18" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiDevX&layout=compact&theme=transparent&title_color=00d4ff&text_color=ffffff&border_color=1a5eff&bg_color=020b18"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiDevX&layout=compact&theme=transparent&title_color=00d4ff&text_color=ffffff&border_color=1a5eff&bg_color=020b18" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RamiDevX&bg_color=020b18&color=00d4ff&line=1a5eff&point=00d4ff&area=true&hide_border=false&border_color=1a5eff&area_color=071d6b"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RamiDevX&bg_color=020b18&color=00d4ff&line=1a5eff&point=00d4ff&area=true&hide_border=false&border_color=1a5eff" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:1247d6,100:020b18&height=2&section=header" width="100%"/>
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -165,18 +182,25 @@ A Telegram channel sharing automation tips, Python scripts, and development reso
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:1247d6,100:020b18&height=2&section=header" width="100%"/>
 
-## 📬 Connect
+## 📬 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-020b18?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/rami-bitar-16479936b)
-[![GitHub](https://img.shields.io/badge/GitHub-020b18?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/RamiDevX)
-[![Telegram](https://img.shields.io/badge/Telegram-020b18?style=for-the-badge&logo=telegram&logoColor=00d4ff)](https://t.me/ramibitar)
-[![X](https://img.shields.io/badge/X_(Twitter)-020b18?style=for-the-badge&logo=x&logoColor=00d4ff)](https://x.com/RamiBitar_dev)
-[![Instagram](https://img.shields.io/badge/Instagram-020b18?style=for-the-badge&logo=instagram&logoColor=00d4ff)](https://www.instagram.com/ramibitarr)
-[![Facebook](https://img.shields.io/badge/Facebook-020b18?style=for-the-badge&logo=facebook&logoColor=00d4ff)](https://www.facebook.com/share/1CJPw8tjwy/)
-[![Email](https://img.shields.io/badge/Email-020b18?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:ramibitar.connct@gmail.com)
-[![Linktree](https://img.shields.io/badge/Linktree-020b18?style=for-the-badge&logo=linktree&logoColor=00d4ff)](https://linktr.ee/ramibitarr)
+### 💼 Professional
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rami-bitar-16479936b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RamiDevX)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramibitar.connct@gmail.com)
+
+### 💬 Social & Messaging
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ramibitar)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RamiBitar_dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramibitarr)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CJPw8tjwy/)
+
+### 🔗 Links & Communities
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ramibitarr)
+[![Automation Lab](https://img.shields.io/badge/Automation%20Lab-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AutoLabOfficial)
+[![Noorify Bot](https://img.shields.io/badge/Noorify%20Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Noorify_bot)
 
 <br/>
 

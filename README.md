@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,50:0a1f5e,100:1a5eff&height=140&section=header&text=Rami%20Bitar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=68&desc=Computer%20Programming%20Student%20%C2%B7%20Developer&descSize=15&descAlignY=85&descColor=7eb8ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,35:071d6b,65:1247d6,100:00d4ff&height=200&section=header&text=Rami%20Bitar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=62&desc=Computer%20Programming%20Student%20%C2%B7%20Developer&descSize=16&descAlignY=78&descColor=a8d8ff&stroke=00d4ff&strokeWidth=1" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Python+%26+Web+Developer+%F0%9F%90%8D;Telegram+Bot+Creator+%F0%9F%A4%96;Arduino+%26+Robotics+Enthusiast+%E2%9A%A1;Building+software+that+solves+real+problems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -90,6 +90,6 @@ A Telegram bot delivering scheduled Islamic dhikr reminders to groups, channels,
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a5eff,100:020b18&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,35:1247d6,65:071d6b,100:020b18&height=160&section=footer&reversal=true" width="100%"/>
 
 </div>

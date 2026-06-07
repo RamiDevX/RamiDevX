@@ -109,7 +109,7 @@ Telegram bot delivering scheduled Islamic dhikr reminders to groups, channels, a
 <div align="center">
 
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/ramibitarr)
-[![Automation Lab](https://img.shields.io/badge/Automation%20Lab-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AutoLabOfficial)
+[![DevSpace](https://img.shields.io/badge/Dev%20space-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/DevSpace)
 [![Noorify Bot](https://img.shields.io/badge/Noorify%20Bot-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Noorify_bot)
 
 </div>

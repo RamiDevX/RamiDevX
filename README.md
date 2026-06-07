@@ -16,7 +16,7 @@
 
 Computer Programming student passionate about building **intelligent automation systems** and **scalable applications**. 
 
-**Expertise:** Python • JavaScript • HTML/CSS • Bot Development • Backend APIs • Automation Systems
+**Expertise:** Python • JavaScript • HTML/CSS • Bot Development • Automation Systems
 
 **Currently:** Open to internship opportunities to grow in real-world environments
 

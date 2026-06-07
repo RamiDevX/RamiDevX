@@ -36,9 +36,6 @@ Computer Programming student passionate about building **intelligent automation 
 
 ### Frameworks & Tools
 <div align="center">
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -48,8 +45,6 @@ Computer Programming student passionate about building **intelligent automation 
 <div align="center">
 
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-0088cc?style=flat-square&logo=telegram&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0099FF?style=flat-square&logo=swagger&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>

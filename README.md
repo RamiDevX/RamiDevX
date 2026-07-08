@@ -12,35 +12,25 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-  <table border="0" cellpadding="15" style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; border: 2px solid #4ECDC4; color: #ffffff;">
+  <table border="0" cellpadding="15" style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; border: 2px solid #4ECDC4; color: #ffffff; width: 75%;">
     <tr>
       <td align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=300&color=4ECDC4&center=true&vCenter=true&width=500&height=40&lines=Hi+there!+I'm+Rami;Backend+Enthusiast;Automation+Lover" alt="Typing Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=300&color=4ECDC4&center=true&vCenter=true&width=400&height=35&lines=👋+Hi!+I'm+Rami;💻+Backend+Dev;🤖+Automation" alt="Typing" />
         <br><br>
-        <table border="0" cellpadding="8">
-          <tr>
-            <td align="left">
-              🔭 <b>Currently</b><br>
-              🌱 <b>Learning</b><br>
-              🤝 <b>Open to</b><br>
-              📫 <b>Reach me</b><br>
-            </td>
-            <td align="left">
-              Computer Programming (Backend & Automation)<br>
-              Backend frameworks & API design<br>
-              Connecting with developers, students & companies<br>
-              <b><a href="mailto:ramibitar.connect@gmail.com" style="color: #4ECDC4;">ramibitar.connect@gmail.com</a></b>
-            </td>
-          </tr>
-        </table>
-        <br>
+        <i style="color: #bbb;">"Backend & automation enthusiast, always learning."</i>
+        <br><br>
+        🔭 Computer Programming<br>
+        🌱 Backend & APIs<br>
+        🤝 Open to connect<br>
+        📫 <a href="mailto:ramibitar.connect@gmail.com" style="color: #4ECDC4;">ramibitar.connect@gmail.com</a>
+        <br><br>
         <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=100%" />
-        <br><br>
+        <br>
+        <span style="font-size: 13px; color: #888;">⭐ Let's connect!</span>
       </td>
     </tr>
   </table>
 </p>
-<div align="center">
   
 ## 🛠️ Tech Stack
 

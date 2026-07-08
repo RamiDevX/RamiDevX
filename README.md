@@ -2,6 +2,7 @@
 # Hi, I'm Rami Bitar 👋
 Computer Programming student focused on **backend development** and **automation**.
 <img src="assets/banner.gif" width="100%">
+
 </div>
 
 ## 💻 What I work with

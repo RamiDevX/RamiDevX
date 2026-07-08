@@ -9,27 +9,51 @@
 </div>
 <br>
 
-<pre style="background: #0d1117; border-radius: 12px; padding: 15px; text-align: left; font-family: 'Courier New', monospace; font-size: 13px; color: #e6e6e6; border: 1px solid #4ECDC4; width: 90%;">
-<span style="color: #4ECDC4;">interface</span> <span style="color: #FFD93D;">Developer</span> <span style="color: #4ECDC4;">{</span>
-    <span style="color: #FFD93D;">String</span> <span style="color: #4ECDC4;">getRole</span><span style="color: #4ECDC4;">()</span>;
-    <span style="color: #FFD93D;">String</span> <span style="color: #4ECDC4;">getEmail</span><span style="color: #4ECDC4;">()</span>;
-<span style="color: #4ECDC4;">}</span>
+## 🧑‍💻 About Me
 
-<span style="color: #4ECDC4;">class</span> <span style="color: #FFD93D;">AboutMe</span> <span style="color: #4ECDC4;">implements</span> <span style="color: #FFD93D;">Developer</span> <span style="color: #4ECDC4;">{</span>
-    <span style="color: #4ECDC4;">public</span> <span style="color: #FFD93D;">String</span> <span style="color: #4ECDC4;">getRole</span><span style="color: #4ECDC4;">()</span> <span style="color: #4ECDC4;">{</span> <span style="color: #4ECDC4;">return</span> <span style="color: #6A9955;">"Backend & Automation"</span>; <span style="color: #4ECDC4;">}</span>
-    <span style="color: #4ECDC4;">public</span> <span style="color: #FFD93D;">String</span> <span style="color: #4ECDC4;">getEmail</span><span style="color: #4ECDC4;">()</span> <span style="color: #4ECDC4;">{</span> <span style="color: #4ECDC4;">return</span> <span style="color: #6A9955;">"ramibitar.connect@gmail.com"</span>; <span style="color: #4ECDC4;">}</span>
-    
-    <span style="color: #4ECDC4;">public</span> <span style="color: #4ECDC4;">static</span> <span style="color: #4ECDC4;">void</span> <span style="color: #4ECDC4;">main</span><span style="color: #4ECDC4;">(</span><span style="color: #FFD93D;">String</span><span style="color: #4ECDC4;">[]</span> args<span style="color: #4ECDC4;">)</span> <span style="color: #4ECDC4;">{</span>
-        <span style="color: #FFD93D;">AboutMe</span> me = <span style="color: #4ECDC4;">new</span> <span style="color: #FFD93D;">AboutMe</span><span style="color: #4ECDC4;">()</span>;
-        System.out.println(<span style="color: #6A9955;">"👋 Hi! I'm Rami, a "</span> + me.getRole() + <span style="color: #6A9955;">" Enthusiast"</span>);
-        System.out.println(<span style="color: #6A9955;">"🔭 Studying Computer Programming"</span>);
-        System.out.println(<span style="color: #6A9955;">"🌱 Learning backend frameworks & APIs"</span>);
-        System.out.println(<span style="color: #6A9955;">"🤝 Open to connecting with developers & companies"</span>);
-        System.out.println(<span style="color: #6A9955;">"📫 Email: "</span> + me.getEmail());
-        System.out.println(<span style="color: #6A9955;">"⭐ Thanks for visiting!"</span>);
-    <span style="color: #4ECDC4;">}</span>
-<span style="color: #4ECDC4;">}</span>
-</pre>
+<p align="center">
+  <table border="0" cellpadding="15" style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; border: 2px solid #4ECDC4; color: #ffffff; width: 85%;">
+    <tr>
+      <td align="center">
+        
+        <!-- ASCII Art - DEVX -->
+        <pre style="color: #4ECDC4; font-family: 'Courier New', monospace; font-size: 10px; line-height: 1.2; margin: 0; text-align: center;">
+  ██████╗ ███████╗██╗   ██╗██╗  ██╗
+  ██╔══██╗██╔════╝██║   ██║╚██╗██╔╝
+  ██║  ██║█████╗  ██║   ██║ ╚███╔╝ 
+  ██║  ██║██╔══╝  ╚██╗ ██╔╝ ██╔██╗ 
+  ██████╔╝███████╗ ╚████╔╝ ██╔╝ ██╗
+  ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝
+        </pre>
+
+        <br>
+
+        <!-- النص الترحيبي المتحرك -->
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=300&color=4ECDC4&center=true&vCenter=true&width=450&height=35&lines=👋+Hi!+I'm+Rami;💻+Backend+Dev;🤖+Automation+Lover" alt="Typing" />
+        
+        <br><br>
+
+        <!-- معلومات شخصية على شكل ASCII -->
+        <pre style="color: #bbb; font-family: 'Courier New', monospace; font-size: 13px; text-align: left; background: #0d1117; border-radius: 12px; padding: 15px; border: 1px solid #4ECDC4; width: 90%;">
+╔═══════════════════════════════════════════════════════╗
+║  🔭  Currently  :  Computer Programming              ║
+║  🌱  Learning   :  Backend Frameworks & APIs         ║
+║  🤝  Open to    :  Connecting & Collaborations       ║
+║  📫  Reach me   :  ramibitar.connect@gmail.com       ║
+╚═══════════════════════════════════════════════════════╝
+        </pre>
+
+        <br>
+
+        <!-- اقتباس -->
+        <pre style="color: #4ECDC4; font-family: 'Courier New', monospace; font-size: 12px; text-align: center; margin: 0;">
+" Coding is my passion, automation is my superpower. "
+        </pre>
+
+      </td>
+    </tr>
+  </table>
+</p>
   
 ## 🛠️ Tech Stack
 

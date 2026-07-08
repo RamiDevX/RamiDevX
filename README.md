@@ -63,9 +63,8 @@
 
 <br>
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me![Uploading space-shooter.gif…]()
 
-src="https://github.com/user-attachments/assets/ee239f7d-9d43-426b-8712-7900f6f173a5" />;
 
 <div align="center">
 

@@ -72,11 +72,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Project Name](https://github.com/RamiDevX)** | Short description of what it does | `Python` `SQL` |
-| **[Project Name](https://github.com/RamiDevX)** | Short description of what it does | `JavaScript` `REST API` |
-| **[Project Name](https://github.com/RamiDevX)** | Short description of what it does | `Arduino` `C++` |
-
-</div>
+| **[Project Name](https://github.com/Noorify_Bot)** | Short description of what it does | `Python` `SQL` |
 
 <br>
 

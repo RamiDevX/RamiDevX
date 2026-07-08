@@ -1,10 +1,15 @@
 <div align="center">
-  
+
+<img src="assets/profile.jpg" width="140" style="border-radius:50%;">
+
 # Hi, I'm Rami Bitar 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Computer+Programming+Student;Backend+Development+%26+Automation;Always+Learning+Something+New" alt="Typing SVG" />
 
 <img src="assets/banner.gif" width="100%">
+
+![Profile Views](https://komarev.com/ghpvc/?username=RamiDevX&color=2563EB&style=flat&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/RamiDevX?color=3B82F6&label=Followers&style=flat&logo=github)
 
 </div>
 
@@ -42,6 +47,34 @@
 
 <img src="https://github-stats-extended.vercel.app/api?username=RamiDevX&show_icons=true&theme=dark" width="49%">
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RamiDevX&layout=compact&theme=dark" width="30%">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamiDevX&theme=dark&hide_border=true&background=0D1117&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6" width="80%">
+
+</div>
+
+<br>
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=RamiDevX&theme=algolia&no-frame=true&row=1&column=6&margin-w=10)
+
+</div>
+
+<br>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| **[Project Name](https://github.com/RamiDevX)** | Short description of what it does | `Python` `SQL` |
+| **[Project Name](https://github.com/RamiDevX)** | Short description of what it does | `JavaScript` `REST API` |
+| **[Project Name](https://github.com/RamiDevX)** | Short description of what it does | `Arduino` `C++` |
 
 </div>
 

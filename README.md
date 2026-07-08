@@ -85,6 +85,11 @@
 ---
 
 <div align="center">
-  <h3>⭐ Thanks for visiting my profile</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=4ECDC4&center=true&vCenter=true&width=300&lines=Welcome+to+my+profile!;Thanks+for+visiting!;⭐+Have+a+great+day+⭐" alt="Typing SVG" />
+  <br><br>
+
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=300&color=4ECDC4&center=true&vCenter=true&width=600&height=50&lines=⭐+Thanks+for+visiting+my+profile;✨+Welcome+to+my+GitHub+✨;💻+See+you+soon!;🚀+Keep+coding!" alt="Typing Animation" />
+  </h1>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&colorEnd=1976D2&height=150&section=footer" width="100%" />
 </div>

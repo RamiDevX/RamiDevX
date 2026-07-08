@@ -72,7 +72,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Project Name](https://github.com/Noorify_Bot)** | Short description of what it does | `Python` `SQL` |
+| **[Noorify_Bot](https://github.com/RamiDevX/Noorify_Bot)** | Short description of what it does | `Python` `SQL` |
 
 <br>
 

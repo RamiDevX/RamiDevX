@@ -10,8 +10,6 @@
 <br>
 
 ## 💻 What I Work With
-## 🛠️ Tech Stack
-
 <div align="center">
   <table border="0" cellpadding="15" style="background: #0d1117; border-radius: 15px; border: 2px solid #4ECDC4;">
     <tr>
@@ -34,39 +32,6 @@
 <img width="200" height="100" alt="GIF from GIFER" src="https://github.com/user-attachments/assets/1f017a72-7616-44aa-8345-da8943a277d6" />
 
 ---
-## 🧑‍💻 About Me
-
-<div align="center">
-  <table border="0" cellpadding="20" style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 25px; width: 80%; color: #ffffff; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-    <tr>
-      <td align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=300&color=4ECDC4&center=true&vCenter=true&width=500&height=40&lines=Hi+there!+I'm+Rami;Backend+Enthusiast;Automation+Lover" alt="Typing Animation" />
-        <br><br>
-        <table border="0" cellpadding="10">
-          <tr>
-            <td align="left">
-              🔭 <b>Currently</b><br>
-              🌱 <b>Learning</b><br>
-              🤝 <b>Open to</b><br>
-              📫 <b>Reach me</b><br>
-            </td>
-            <td align="left">
-              Computer Programming (Backend & Automation)<br>
-              Backend frameworks & API design<br>
-              Connecting with developers, students & companies<br>
-              <b>ramibitar.connect@gmail.com</b>
-            </td>
-          </tr>
-        </table>
-        <br>
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&width=100%" />
-        <br><br>
-        <img src="https://img.shields.io/badge/📬_Let's_Connect!-4ECDC4?style=for-the-badge&logo=linktree&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
 
 ## 📊 GitHub Stats
 

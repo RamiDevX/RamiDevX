@@ -31,17 +31,18 @@
 <br>
 
 <div align="center">
-  <div style="display: flex; gap: 20px; justify-content: center;">
-    <div style="width: 80px; height: 80px; background: #4ECDC4; border-radius: 50%; animation: bounce 2s infinite;"></div>
-    <div style="width: 80px; height: 80px; background: #FF6B6B; border-radius: 50%; animation: bounce 2s infinite 0.3s;"></div>
-    <div style="width: 80px; height: 80px; background: #F9A825; border-radius: 50%; animation: bounce 2s infinite 0.6s;"></div>
-  </div>
-  <style>
-    @keyframes bounce {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-20px); }
-    }
-  </style>
+  <table border="0">
+    <tr>
+      <td align="center" style="background: #1a1a2e; border-radius: 15px; padding: 20px; margin: 10px;">
+        <h3 style="color: #4ECDC4;">🚀 Tech Stack</h3>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🧑‍💻 About Me

@@ -15,7 +15,8 @@
 
 ## 💻 What I Work With
 
-https://i.pinimg.com/originals/ad/ad/79/adad79ab8693e3f4d5866243ff3ef4f4.gif
+<img width="498" height="235" alt="image" src="https://github.com/user-attachments/assets/4f0ba1c0-116e-4d61-8b6c-59f37dbcaff9" />
+
 
 <div align="center">
 

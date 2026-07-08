@@ -83,6 +83,7 @@
   <a href="https://www.instagram.com/ramidevx/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <br> <!-- فاصل سطر -->
   <a href="mailto:ramibitar.connect@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>

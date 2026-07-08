@@ -11,11 +11,6 @@ Computer Programming student focused on **backend development** and **automation
 - 🤝 Open to connecting with developers, students, and companies
 - 📫 Reach me at ramibitar.connect@gmail.com
 
-## 📊 GitHub Stats
-
-![Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiDevX&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamiDevX&layout=compact&theme=default)
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rami-bitar-16479936b)

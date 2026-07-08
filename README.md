@@ -1,9 +1,12 @@
+<div align="center">
+<img src="assets/profile.jpg" width="140" style="border-radius:50%;">
+
 # Hi, I'm Rami Bitar 👋
 
 Computer Programming student focused on **backend development** and **automation**.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
+<img src="assets/banner.gif" width="100%">
+</div>
 
 ## 💻 What I work with
 `Python` `JavaScript` `HTML/CSS` `SQL` `REST APIs` `Git & GitHub` `Arduino`
@@ -15,9 +18,10 @@ Computer Programming student focused on **backend development** and **automation
 - 📫 Reach me at ramibitar.connect@gmail.com
 
 ## 📊 GitHub Stats
- 
+
 ![Rami's GitHub stats](https://github-stats-extended.vercel.app/api?username=RamiDevX&show_icons=true&theme=dark)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RamiDevX&layout=compact&theme=dark)
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rami-bitar-16479936b)

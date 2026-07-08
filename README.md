@@ -2,6 +2,9 @@
 
 Computer Programming student focused on **backend development** and **automation**.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+
 ## 💻 What I work with
 `Python` `JavaScript` `HTML/CSS` `SQL` `REST APIs` `Git & GitHub` `Arduino`
 
@@ -10,6 +13,11 @@ Computer Programming student focused on **backend development** and **automation
 - 🌱 Learning more about backend frameworks and API design
 - 🤝 Open to connecting with developers, students, and companies
 - 📫 Reach me at ramibitar.connect@gmail.com
+
+## 📊 GitHub Stats
+
+![Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiDevX&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamiDevX&layout=compact&theme=default)
 
 ## 🌐 Connect With Me
 

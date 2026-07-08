@@ -15,6 +15,8 @@
 
 ## 💻 What I Work With
 
+https://i.pinimg.com/originals/ad/ad/79/adad79ab8693e3f4d5866243ff3ef4f4.gif
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat&logo=python&logoColor=white)

@@ -15,7 +15,7 @@
 
 ## 💻 What I Work With
 
-<img width="498" height="235" alt="image" src="https://github.com/user-attachments/assets/4f0ba1c0-116e-4d61-8b6c-59f37dbcaff9" />
+<img width="498" height="235" alt="gif" src="https://github.com/user-attachments/assets/4f0ba1c0-116e-4d61-8b6c-59f37dbcaff9" />
 
 
 <div align="center">

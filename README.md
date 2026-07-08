@@ -21,9 +21,6 @@
   ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝
   
   </pre>
-  <span style="color: #4ECDC4; font-family: 'Courier New', monospace; font-size: 16px; font-weight: bold;">
-    ⚡ Backend · Automation · APIs ⚡
-  </span>
 </p>
 
   

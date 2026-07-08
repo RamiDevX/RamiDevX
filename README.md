@@ -12,46 +12,35 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-  <table border="0" cellpadding="15" style="background: #0d1117; border-radius: 15px; border: 2px solid #4ECDC4;">
+  <table border="0" cellpadding="15" style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; border: 2px solid #4ECDC4; color: #ffffff;">
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30" /> 
-        <b>Hello! I'm Rami</b>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=300&color=4ECDC4&center=true&vCenter=true&width=500&height=40&lines=Hi+there!+I'm+Rami;Backend+Enthusiast;Automation+Lover" alt="Typing Animation" />
         <br><br>
-        <table border="0" cellpadding="5">
+        <table border="0" cellpadding="8">
           <tr>
-            <td align="center">🎓 <b>Student</b></td>
-            <td align="center">⚡ <b>Backend</b></td>
-            <td align="center">🤖 <b>Automation</b></td>
+            <td align="left">
+              🔭 <b>Currently</b><br>
+              🌱 <b>Learning</b><br>
+              🤝 <b>Open to</b><br>
+              📫 <b>Reach me</b><br>
+            </td>
+            <td align="left">
+              Computer Programming (Backend & Automation)<br>
+              Backend frameworks & API design<br>
+              Connecting with developers, students & companies<br>
+              <b><a href="mailto:ramibitar.connect@gmail.com" style="color: #4ECDC4;">ramibitar.connect@gmail.com</a></b>
+            </td>
           </tr>
         </table>
         <br>
-        🔭 <b>Currently:</b> Computer Programming<br>
-        🌱 <b>Learning:</b> Backend frameworks & API design<br>
-        🤝 <b>Open to:</b> Connecting with developers & companies<br>
-        📫 <b>Email:</b> <a href="mailto:ramibitar.connect@gmail.com" style="color: #4ECDC4;">ramibitar.connect@gmail.com</a>
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=100%" />
+        <br><br>
+        <img src="https://img.shields.io/badge/📬_Let's_Connect!-4ECDC4?style=flat&logo=linktree&logoColor=white" />
       </td>
     </tr>
   </table>
 </p>
-## 💻 What I Work With
-<div align="center">
-  <table border="0" cellpadding="15" style="background: #0d1117; border-radius: 15px; border: 2px solid #4ECDC4;">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
 <div align="center">
   
 <img width="200" height="100" alt="GIF from GIFER" src="https://github.com/user-attachments/assets/1f017a72-7616-44aa-8345-da8943a277d6" />

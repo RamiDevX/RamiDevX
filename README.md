@@ -1,4 +1,4 @@
-<img width="800" height="300" alt="Animations_sprites - Paulo Dos Reis" src="https://github.com/user-attachments/assets/63a3f759-20a9-40f2-9278-40cd4bf3409e" />
+<img width="1000" height="300" alt="Animations_sprites - Paulo Dos Reis" src="https://github.com/user-attachments/assets/63a3f759-20a9-40f2-9278-40cd4bf3409e" />
 
 <div align="center">
   

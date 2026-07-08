@@ -11,6 +11,8 @@
 
 <p align="center">
   <pre style="color: #4ECDC4; font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.2; margin: 0; text-align: center;">
+    ذ
+    <div align="center">
     
   ██████╗ ███████╗██╗   ██╗██╗  ██╗
   ██╔══██╗██╔════╝██║   ██║╚██╗██╔╝

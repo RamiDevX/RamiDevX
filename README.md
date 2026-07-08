@@ -63,7 +63,8 @@
 
 <br>
 
-## 🌐 Connect With Me![Uploading space-shooter.gif…]()
+## 🌐 Connect With Me
+![Uploading space-shooter.gif…]()
 
 
 <div align="center">

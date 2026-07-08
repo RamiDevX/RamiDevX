@@ -30,21 +30,16 @@
 
 <br>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" style="background: #1a1a2e; border-radius: 15px; padding: 20px; margin: 10px;">
-        <h3 style="color: #4ECDC4;">🚀 Tech Stack</h3>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; width: 85%;">
+  <h3 style="color: white;">🏆 Achievements</h3>
+  <div style="display: flex; gap: 30px; justify-content: center; color: white; font-size: 18px;">
+    <span>⭐ 5+ Projects</span>
+    <span>👥 100+ Stars</span>
+    <span>🔧 10+ Technologies</span>
+    <span>📚 20+ Repositories</span>
+  </div>
 
+</div>
 ## 🧑‍💻 About Me
 
 - 🔭 Currently studying Computer Programming, focused on backend & automation

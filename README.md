@@ -30,15 +30,7 @@
 
 <br>
 
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; width: 85%;">
-  <h3 style="color: white;">🏆 Achievements</h3>
-  <div style="display: flex; gap: 30px; justify-content: center; color: white; font-size: 18px;">
-    
-    <span>⭐ 5+ Projects</span>
-    <span>👥 100+ Stars</span>
-    <span>🔧 10+ Technologies</span>
-    <span>📚 20+ Repositories</span>
-  </div>
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 ## 🧑‍💻 About Me

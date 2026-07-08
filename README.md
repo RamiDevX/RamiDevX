@@ -87,3 +87,5 @@
 ⭐ **Thanks for visiting my profile!**
 
 </div>
+
+![Waves](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header)

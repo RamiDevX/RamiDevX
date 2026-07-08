@@ -16,7 +16,6 @@
 <img width="200" height="100" alt="GIF from GIFER" src="https://github.com/user-attachments/assets/1f017a72-7616-44aa-8345-da8943a277d6" />
 
 ---
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -28,8 +27,8 @@
 
 <br>
 
-
 </div>
+
 ## 🧑‍💻 About Me
 
 - 🔭 Currently studying Computer Programming, focused on backend & automation

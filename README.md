@@ -15,6 +15,8 @@
   
 <img width="400" height="150" alt="GIF from GIFER" src="https://github.com/user-attachments/assets/1f017a72-7616-44aa-8345-da8943a277d6" />
 
+---
+
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=flat&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-3B82F6?style=flat&logo=html5&logoColor=white)

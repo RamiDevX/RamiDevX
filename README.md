@@ -139,5 +139,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=300&color=4ECDC4&center=true&vCenter=true&width=600&height=50&lines=+Thanks+for+visiting+my+profile;+Welcome+to+my+GitHub+;+See+you+soon!;+Keep+coding!" alt="Typing Animation" />
   </h1>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&colorEnd=1976D2&height=150&section=footer" width="100%" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B2A4A&colorEnd=0D1B2A&height=150&section=footer" width="100%" />
 </div>

@@ -16,35 +16,38 @@
 <img width="200" height="100" alt="GIF from GIFER" src="https://github.com/user-attachments/assets/1f017a72-7616-44aa-8345-da8943a277d6" />
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
-</p>
-
-<br>
-
 ## 🧑‍💻 About Me
 
-- 🔭 Currently studying Computer Programming, focused on backend & automation
-- 🌱 Learning more about backend frameworks and API design
-- 🤝 Open to connecting with developers, students, and companies
-- 📫 Reach me at **ramibitar.connect@gmail.com**
+<div align="center">
+  <table border="0" cellpadding="20" style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 25px; width: 80%; color: #ffffff; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+    <tr>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=300&color=4ECDC4&center=true&vCenter=true&width=500&height=40&lines=Hi+there!+I'm+Rami;Backend+Enthusiast;Automation+Lover" alt="Typing Animation" />
+        <br><br>
+        <table border="0" cellpadding="10">
+          <tr>
+            <td align="left">
+              🔭 <b>Currently</b><br>
+              🌱 <b>Learning</b><br>
+              🤝 <b>Open to</b><br>
+              📫 <b>Reach me</b><br>
+            </td>
+            <td align="left">
+              Computer Programming (Backend & Automation)<br>
+              Backend frameworks & API design<br>
+              Connecting with developers, students & companies<br>
+              <b>ramibitar.connect@gmail.com</b>
+            </td>
+          </tr>
+        </table>
+        <br>
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&width=100%" />
+        <br><br>
+        <img src="https://img.shields.io/badge/📬_Let's_Connect!-4ECDC4?style=for-the-badge&logo=linktree&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br>
-
-</div>
-
-## 🧑‍💻 About Me
-
-- 🔭 Currently studying Computer Programming, focused on backend & automation
-- 🌱 Learning more about backend frameworks and API design
-- 🤝 Open to connecting with developers, students, and companies
-- 📫 Reach me at **ramibitar.connect@gmail.com**
-
 <br>
 
 ## 📊 GitHub Stats

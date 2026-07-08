@@ -52,7 +52,8 @@
 <div align="center">
 
 | Project | Description | Tech |
-|---|---|---|| **[Noorify_Bot](https://github.com/RamiDevX/Noorify_Bot)** | A smart Telegram bot that sends daily Islamic reminders| `Python` `SQL` |
+|---|---|---||
+**[Noorify_Bot](https://github.com/RamiDevX/Noorify_Bot)** | A smart Telegram bot that sends daily Islamic reminders| `Python` `SQL` |
 
 <br>
 

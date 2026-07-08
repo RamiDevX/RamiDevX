@@ -1,5 +1,3 @@
-<div align="center">
-<img src="assets/profile.jpg">
 
 # Hi, I'm Rami Bitar 👋
 

@@ -54,15 +54,6 @@
 
 </div>
 
-<br>
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=RamiDevX&theme=algolia&no-frame=true&row=1&column=6&margin-w=10)
-
-</div>
 
 <br>
 

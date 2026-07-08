@@ -48,20 +48,7 @@
 
 <br>
 
-</div>
-
-<div align="center"> 
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=RamiDevX&show_icons=true&theme=radical" width="45%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamiDevX&theme=radical" width="45%" />
-  
-</div>
-
-<br>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
 
 <hr style="border: 2px solid #4ECDC4; border-radius: 5px; width: 80%;">
 

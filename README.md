@@ -64,8 +64,9 @@
 <br>
 
 ## 🌐 Connect With Me
-![Uploading space-shooter.gif…]()
+---
 
+<img width="860" height="230" alt="space-shooter" src="https://github.com/user-attachments/assets/da4ba1dc-b6d0-43e4-b6bd-5a0b5a065c37" />
 
 <div align="center">
 

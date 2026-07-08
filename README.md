@@ -140,6 +140,4 @@
   </h1>
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B2A4A&colorEnd=0D1B2A&height=150&section=footer" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A2A4A&colorEnd=2C3E6B&height=150&section=footer" width="100%" />

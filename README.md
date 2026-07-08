@@ -64,7 +64,8 @@
 <br>
 
 ## 🌐 Connect With Me
-[Pac-Man.webm](https://github.com/user-attachments/assets/044fd836-ab71-4500-ab86-cb1570cd018c)<img width="860" height="230" alt="space-shooter" src="https://github.com/user-attachments/assets/ee239f7d-9d43-426b-8712-7900f6f173a5" />
+[Pac-Man.webm](https://github.com/user-attachments/assets/044fd836-ab71-4500-ab86-cb1570cd018c)<img width="860" height="230" alt="space-shooter" 
+                                                                                                 src="https://github.com/user-attachments/assets/ee239f7d-9d43-426b-8712-7900f6f173a5" />
 
 
 <div align="center">

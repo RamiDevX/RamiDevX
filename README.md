@@ -9,46 +9,27 @@
 </div>
 <br>
 
-## 🧑‍💻 About Me
-
-<p align="center">
-  <table border="0" cellpadding="15" style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; border: 2px solid #4ECDC4; color: #ffffff; width: 80%;">
-    <tr>
-      <td align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=300&color=4ECDC4&center=true&vCenter=true&width=400&height=35&lines=👋+Hi!+I'm+Rami;💻+Backend+Dev;🤖+Automation" alt="Typing" />
-        <br><br>
-        `
-        <pre style="background: #0d1117; border-radius: 12px; padding: 15px; text-align: left; font-family: 'Courier New', monospace; font-size: 13px; color: #e6e6e6; border: 1px solid #4ECDC4; width: 90%;">
-<span style="color: #4ECDC4;">public class</span> <span style="color: #FFD93D;">AboutMe</span> <span style="color: #4ECDC4;">extends</span> <span style="color: #FFD93D;">Developer</span> <span style="color: #4ECDC4;">implements</span> <span style="color: #FFD93D;">BackendEnthusiast</span> <span style="color: #FFD93D;">AutomationLover</span> <span style="color: #4ECDC4;">{</span>
-    ```
-    <span style="color: #4ECDC4;">private</span> <span style="color: #FFD93D;">String</span> name = <span style="color: #6A9955;">"Rami Bitar"</span>;
-    <span style="color: #4ECDC4;">private</span> <span style="color: #FFD93D;">String</span> study = <span style="color: #6A9955;">"Computer Programming"</span>;
-    <span style="color: #4ECDC4;">private</span> <span style="color: #FFD93D;">String</span> focus = <span style="color: #6A9955;">"Backend & Automation"</span>;
-    <span style="color: #4ECDC4;">private</span> <span style="color: #FFD93D;">String</span> learning = <span style="color: #6A9955;">"Backend frameworks & APIs"</span>;
-    <span style="color: #4ECDC4;">private</span> <span style="color: #FFD93D;">String</span> email = <span style="color: #6A9955;">"ramibitar.connect@gmail.com"</span>;
-    ``
-    <span style="color: #4ECDC4;">public</span> <span style="color: #FFD93D;">AboutMe</span><span style="color: #4ECDC4;">()</span> <span style="color: #4ECDC4;">{</span>
-        <span style="color: #4ECDC4;">super</span>(<span style="color: #6A9955;">"Backend Developer"</span>);
-        System.out.println(<span style="color: #6A9955;">"🚀 Hello! I'm Rami, a Backend & Automation Enthusiast."</span>);
-        System.out.println(<span style="color: #6A9955;">"💻 Currently studying Computer Programming."</span>);
-        System.out.println(<span style="color: #6A9955;">"🌱 Learning backend frameworks & API design."</span>);
-        System.out.println(<span style="color: #6A9955;">"🤝 Open to connecting with developers & companies."</span>);
-        System.out.println(<span style="color: #6A9955;">"📫 Reach me at: ramibitar.connect@gmail.com"</span>);
-    <span style="color: #4ECDC4;">}</span>
-    `
-    <span style="color: #4ECDC4;">public</span> <span style="color: #FFD93D;">String</span> <span style="color: #4ECDC4;">getWelcomeMessage</span><span style="color: #4ECDC4;">()</span> <span style="color: #4ECDC4;">{</span>
-        <span style="color: #4ECDC4;">return</span> <span style="color: #6A9955;">"⭐ Thanks for visiting my profile!"</span>;
-    <span style="color: #4ECDC4;">}</span>
-    
+<pre style="background: #0d1117; border-radius: 12px; padding: 15px; text-align: left; font-family: 'Courier New', monospace; font-size: 13px; color: #e6e6e6; border: 1px solid #4ECDC4; width: 90%;">
+<span style="color: #4ECDC4;">interface</span> <span style="color: #FFD93D;">Developer</span> <span style="color: #4ECDC4;">{</span>
+    <span style="color: #FFD93D;">String</span> <span style="color: #4ECDC4;">getRole</span><span style="color: #4ECDC4;">()</span>;
+    <span style="color: #FFD93D;">String</span> <span style="color: #4ECDC4;">getEmail</span><span style="color: #4ECDC4;">()</span>;
 <span style="color: #4ECDC4;">}</span>
-        </pre>
-        `
-        <br>
-        <span style="font-size: 13px; color: #888;">💡 "Coding is my passion, automation is my superpower."</span>
-      </td>
-    </tr>
-  </table>
-</p>
+
+<span style="color: #4ECDC4;">class</span> <span style="color: #FFD93D;">AboutMe</span> <span style="color: #4ECDC4;">implements</span> <span style="color: #FFD93D;">Developer</span> <span style="color: #4ECDC4;">{</span>
+    <span style="color: #4ECDC4;">public</span> <span style="color: #FFD93D;">String</span> <span style="color: #4ECDC4;">getRole</span><span style="color: #4ECDC4;">()</span> <span style="color: #4ECDC4;">{</span> <span style="color: #4ECDC4;">return</span> <span style="color: #6A9955;">"Backend & Automation"</span>; <span style="color: #4ECDC4;">}</span>
+    <span style="color: #4ECDC4;">public</span> <span style="color: #FFD93D;">String</span> <span style="color: #4ECDC4;">getEmail</span><span style="color: #4ECDC4;">()</span> <span style="color: #4ECDC4;">{</span> <span style="color: #4ECDC4;">return</span> <span style="color: #6A9955;">"ramibitar.connect@gmail.com"</span>; <span style="color: #4ECDC4;">}</span>
+    
+    <span style="color: #4ECDC4;">public</span> <span style="color: #4ECDC4;">static</span> <span style="color: #4ECDC4;">void</span> <span style="color: #4ECDC4;">main</span><span style="color: #4ECDC4;">(</span><span style="color: #FFD93D;">String</span><span style="color: #4ECDC4;">[]</span> args<span style="color: #4ECDC4;">)</span> <span style="color: #4ECDC4;">{</span>
+        <span style="color: #FFD93D;">AboutMe</span> me = <span style="color: #4ECDC4;">new</span> <span style="color: #FFD93D;">AboutMe</span><span style="color: #4ECDC4;">()</span>;
+        System.out.println(<span style="color: #6A9955;">"👋 Hi! I'm Rami, a "</span> + me.getRole() + <span style="color: #6A9955;">" Enthusiast"</span>);
+        System.out.println(<span style="color: #6A9955;">"🔭 Studying Computer Programming"</span>);
+        System.out.println(<span style="color: #6A9955;">"🌱 Learning backend frameworks & APIs"</span>);
+        System.out.println(<span style="color: #6A9955;">"🤝 Open to connecting with developers & companies"</span>);
+        System.out.println(<span style="color: #6A9955;">"📫 Email: "</span> + me.getEmail());
+        System.out.println(<span style="color: #6A9955;">"⭐ Thanks for visiting!"</span>);
+    <span style="color: #4ECDC4;">}</span>
+<span style="color: #4ECDC4;">}</span>
+</pre>
   
 ## 🛠️ Tech Stack
 

@@ -59,16 +59,16 @@
 </div>
 
 <br>
-<!-- خط مزخرف -->
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-<!-- أو خط بسيط -->
+
 <hr style="border: 2px solid #4ECDC4; border-radius: 5px; width: 80%;">
 
-<!-- أو خط بنجوم -->
 <div align="center">
-  ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐
+  
 </div>
+
 ## 🚀 Featured Projects
 
 <div align="center">

@@ -73,12 +73,23 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rami-bitar-16479936b)
-[![Telegram](https://img.shields.io/badge/Telegram-3B82F6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ramidevx)
-[![Instagram](https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramidevx/)
-[![Gmail](https://img.shields.io/badge/Gmail-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramibitar.connect@gmail.com)
-[![Linktree](https://img.shields.io/badge/Linktree-2563EB?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ramibitarr)
-
+<p align="center">
+  <a href="https://linkedin.com/in/rami-bitar-16479936b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/ramidevx">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ramidevx/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:ramibitar.connect@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/ramibitarr">
+    <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+</p>
 </div>
 
 <br>

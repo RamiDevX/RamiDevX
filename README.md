@@ -1,13 +1,8 @@
 <div align="center">
   
 # Hi, I'm Rami Bitar 👋
+<img width="500" height="280" alt="GIF from GIFER" src="https://github.com/user-attachments/assets/1f017a72-7616-44aa-8345-da8943a277d6" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Computer+Programming+Student;Backend+Development+%26+Automation;Always+Learning+Something+New" alt="Typing SVG" />
-
-<img src="assets/banner.gif" width="100%">
-
-<div align="center">
-  
 ![Profile Views](https://komarev.com/ghpvc/?username=RamiDevX&color=2563EB&style=flat&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/RamiDevX?color=3B82F6&label=Followers&style=flat&logo=github)
 
@@ -16,10 +11,6 @@
 <br>
 
 ## 💻 What I Work With
-
-<img width="498" height="235" alt="Информация" src="https://github.com/user-attachments/assets/59cf7d3d-2cac-464a-848a-fedc6c973e1c" />
-
-
 
 <div align="center">
 

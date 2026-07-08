@@ -48,8 +48,6 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamiDevX&theme=dark&hide_border=true&background=0D1117&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6" width="80%">
-
 </div>
 
 

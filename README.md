@@ -9,6 +9,31 @@
 </div>
 <br>
 
+## 🧑‍💻 About Me
+
+<p align="center">
+  <table border="0" cellpadding="15" style="background: #0d1117; border-radius: 15px; border: 2px solid #4ECDC4;">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30" /> 
+        <b>Hello! I'm Rami</b>
+        <br><br>
+        <table border="0" cellpadding="5">
+          <tr>
+            <td align="center">🎓 <b>Student</b></td>
+            <td align="center">⚡ <b>Backend</b></td>
+            <td align="center">🤖 <b>Automation</b></td>
+          </tr>
+        </table>
+        <br>
+        🔭 <b>Currently:</b> Computer Programming<br>
+        🌱 <b>Learning:</b> Backend frameworks & API design<br>
+        🤝 <b>Open to:</b> Connecting with developers & companies<br>
+        📫 <b>Email:</b> <a href="mailto:ramibitar.connect@gmail.com" style="color: #4ECDC4;">ramibitar.connect@gmail.com</a>
+      </td>
+    </tr>
+  </table>
+</p>
 ## 💻 What I Work With
 <div align="center">
   <table border="0" cellpadding="15" style="background: #0d1117; border-radius: 15px; border: 2px solid #4ECDC4;">

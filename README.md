@@ -12,15 +12,6 @@
     <div style="width: 80px; height: 80px; background: #F9A825; border-radius: 50%; animation: bounce 2s infinite 0.6s;"></div>
   </div>
   
-  <style>
-    @keyframes bounce {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-20px); }
-    }
-  </style>
-  
-</div>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=RamiDevX&color=2563EB&style=flat&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/RamiDevX?color=3B82F6&label=Followers&style=flat&logo=github)
 </div>

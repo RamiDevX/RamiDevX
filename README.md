@@ -15,8 +15,8 @@
   <table border="0" cellpadding="15" style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; border: 2px solid #4ECDC4; color: #ffffff; width: 85%;">
     <tr>
       <td align="center">
-        
-        <!-- ASCII Art - DEVX -->
+      
+  "
         <pre style="color: #4ECDC4; font-family: 'Courier New', monospace; font-size: 10px; line-height: 1.2; margin: 0; text-align: center;">
   ██████╗ ███████╗██╗   ██╗██╗  ██╗
   ██╔══██╗██╔════╝██║   ██║╚██╗██╔╝
@@ -25,15 +25,14 @@
   ██████╔╝███████╗ ╚████╔╝ ██╔╝ ██╗
   ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝
         </pre>
-
+"
         <br>
-
+"
         <!-- النص الترحيبي المتحرك -->
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=300&color=4ECDC4&center=true&vCenter=true&width=450&height=35&lines=👋+Hi!+I'm+Rami;💻+Backend+Dev;🤖+Automation+Lover" alt="Typing" />
-        
+"        
         <br><br>
-
-        <!-- معلومات شخصية على شكل ASCII -->
+"
         <pre style="color: #bbb; font-family: 'Courier New', monospace; font-size: 13px; text-align: left; background: #0d1117; border-radius: 12px; padding: 15px; border: 1px solid #4ECDC4; width: 90%;">
 ╔═══════════════════════════════════════════════════════╗
 ║  🔭  Currently  :  Computer Programming              ║
@@ -42,14 +41,13 @@
 ║  📫  Reach me   :  ramibitar.connect@gmail.com       ║
 ╚═══════════════════════════════════════════════════════╝
         </pre>
-
+"
         <br>
-
-        <!-- اقتباس -->
+"
         <pre style="color: #4ECDC4; font-family: 'Courier New', monospace; font-size: 12px; text-align: center; margin: 0;">
 " Coding is my passion, automation is my superpower. "
         </pre>
-
+"
       </td>
     </tr>
   </table>

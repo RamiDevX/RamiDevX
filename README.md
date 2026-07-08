@@ -36,7 +36,6 @@
         <br>
         <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=100%" />
         <br><br>
-        <img src="https://img.shields.io/badge/📬_Let's_Connect!-4ECDC4?style=flat&logo=linktree&logoColor=white" />
       </td>
     </tr>
   </table>

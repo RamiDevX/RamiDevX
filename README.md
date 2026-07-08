@@ -16,9 +16,8 @@ Computer Programming student focused on **backend development** and **automation
 
 ## 📊 GitHub Stats
  
-![Rami's GitHub stats](https://github-stats-extended.vercel.app/api?username=RamiDevX&show_icons=true&theme=default)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RamiDevX&layout=compact&theme=default)
- 
+![Rami's GitHub stats](https://github-stats-extended.vercel.app/api?username=RamiDevX&show_icons=true&theme=dark)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RamiDevX&layout=compact&theme=dark)
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rami-bitar-16479936b)

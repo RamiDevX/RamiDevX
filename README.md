@@ -6,9 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RamiDevX&color=2563EB&style=flat&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/RamiDevX?color=3B82F6&label=Followers&style=flat&logo=github)
-
 </div>
-
 <br>
 
 ## 💻 What I Work With

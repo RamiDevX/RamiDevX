@@ -1,3 +1,5 @@
+<img width="800" height="450" alt="Animations_sprites - Paulo Dos Reis" src="https://github.com/user-attachments/assets/63a3f759-20a9-40f2-9278-40cd4bf3409e" />
+
 <div align="center">
   
 # Hi, I'm Rami Bitar 👋

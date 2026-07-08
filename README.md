@@ -4,6 +4,20 @@
   
 # Hi, I'm Rami Bitar 👋
 
+<div align="center">
+  <div style="display: flex; gap: 20px; justify-content: center;">
+    <div style="width: 80px; height: 80px; background: #4ECDC4; border-radius: 50%; animation: bounce 2s infinite;"></div>
+    <div style="width: 80px; height: 80px; background: #FF6B6B; border-radius: 50%; animation: bounce 2s infinite 0.3s;"></div>
+    <div style="width: 80px; height: 80px; background: #F9A825; border-radius: 50%; animation: bounce 2s infinite 0.6s;"></div>
+  </div>
+  <style>
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-20px); }
+    }
+  </style>
+</div>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=RamiDevX&color=2563EB&style=flat&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/RamiDevX?color=3B82F6&label=Followers&style=flat&logo=github)
 </div>
@@ -38,12 +52,6 @@
 - 📫 Reach me at **ramibitar.connect@gmail.com**
 
 <br>
-
-<div align="center"> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Star.png" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="35" height="35" />
-</div>
 
 ## 📊 GitHub Stats
 

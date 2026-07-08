@@ -88,4 +88,4 @@
 
 </div>
 
-![Waves](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&section=header)
+![Waves](https://capsule-render.vercel.app/api?type=waving&customColorList=0,1,2&color=0D47A1&colorEnd=1976D2&height=120&section=header)

@@ -10,7 +10,7 @@
 <br>
 
 <<p align="center">
-  <pre style="font-family: 'Courier New', monospace; font-size: 12px; line-height: 1.2; margin: 0; text-align: center; background: linear-gradient(135deg, #4ECDC4, #44B39D, #2E86AB); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;"
+  <pre style="font-family: 'Courier New', monospace; font-size: 12px; line-height: 1.2; margin: 0; text-align: center; background: linear-gradient(135deg, #4ECDC4, #44B39D, #2E86AB); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;""
   ██████╗  █████╗ ███╗   ███╗██╗    ██████╗ ███████╗██╗   ██╗██╗  ██╗
   ██╔══██╗██╔══██╗████╗ ████║██║    ██╔══██╗██╔════╝██║   ██║╚██╗██╔╝
   ██████╔╝███████║██╔████╔██║██║    ██║  ██║█████╗  ██║   ██║ ╚███╔╝ 

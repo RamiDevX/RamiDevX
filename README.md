@@ -1,14 +1,11 @@
 <img width="1000" height="300" alt="Animations_sprites - Paulo Dos Reis" src="https://github.com/user-attachments/assets/63a3f759-20a9-40f2-9278-40cd4bf3409e" />
 
 <div align="center">
-  
 # Hi, I'm Rami Bitar
-
 ![Profile Views](https://komarev.com/ghpvc/?username=RamiDevX&color=2563EB&style=flat&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/RamiDevX?color=3B82F6&label=Followers&style=flat&logo=github)
 </div>
 <br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -27,6 +24,7 @@
       </td>
     </tr>
   </table>
+  
 </div>
 
 ## 📊 GitHub Stats
@@ -39,9 +37,7 @@
 <br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
 <hr style="border: 2px solid #4ECDC4; border-radius: 5px; width: 80%;">
-
 <div align="center">
   
 </div>
@@ -82,14 +78,10 @@
   
 <img width="860" height="230" alt="space-shooter" src="https://github.com/user-attachments/assets/da4ba1dc-b6d0-43e4-b6bd-5a0b5a065c37" />
 
----
-
 <div align="center">
   <br><br>
-
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=300&color=4ECDC4&center=true&vCenter=true&width=600&height=50&lines=+Thanks+for+visiting+my+profile;+Welcome+to+my+GitHub+;+See+you+soon!;+Keep+coding!" alt="Typing Animation" />
   </h1>
-
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1628&colorEnd=040D1A&height=150&section=footer" width="100%" />

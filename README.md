@@ -33,6 +33,7 @@
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; width: 85%;">
   <h3 style="color: white;">🏆 Achievements</h3>
   <div style="display: flex; gap: 30px; justify-content: center; color: white; font-size: 18px;">
+    
     <span>⭐ 5+ Projects</span>
     <span>👥 100+ Stars</span>
     <span>🔧 10+ Technologies</span>

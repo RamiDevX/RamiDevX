@@ -84,8 +84,7 @@
 
 ---
 
-⭐ **Thanks for visiting my profile!**
-
+<div align="center">
+  <h3>⭐ Thanks for visiting my profile</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=4ECDC4&center=true&vCenter=true&width=300&lines=Welcome+to+my+profile!;Thanks+for+visiting!;⭐+Have+a+great+day+⭐" alt="Typing SVG" />
 </div>
-
-![Waves](https://capsule-render.vercel.app/api?type=waving&customColorList=0,1,2&color=0D47A1&colorEnd=1976D2&height=120&section)

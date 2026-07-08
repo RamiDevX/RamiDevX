@@ -1,6 +1,7 @@
-<img width="1000" height="300" alt="Animations_sprites - Paulo Dos Reis" src="https://github.com/user-attachments/assets/63a3f759-20a9-40f2-9278-40cd4bf3409e" />
 
+<img width="1000" height="300" alt="Animations_sprites - Paulo Dos Reis" src="https://github.com/user-attachments/assets/63a3f759-20a9-40f2-9278-40cd4bf3409e" />
 <div align="center">
+  
 # Hi, I'm Rami Bitar
 ![Profile Views](https://komarev.com/ghpvc/?username=RamiDevX&color=2563EB&style=flat&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/RamiDevX?color=3B82F6&label=Followers&style=flat&logo=github)

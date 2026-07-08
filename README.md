@@ -45,8 +45,6 @@
   
 <img width="200" height="100" alt="GIF from GIFER" src="https://github.com/user-attachments/assets/1f017a72-7616-44aa-8345-da8943a277d6" />
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -66,8 +64,6 @@
     </tr>
   </table>
 </div>
-
----
 
 ## 📊 GitHub Stats
 

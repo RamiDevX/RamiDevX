@@ -57,8 +57,6 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 
 <div align="center">
 
-<img width="1166" height="184" alt="pacman-contribution-graph-dark" src="https://github.com/user-attachments/assets/654911ba-1d3c-4cc9-bf96-203e81e21870" />
-
  **Thanks for visiting my profile!** 💙 
  
 </div>

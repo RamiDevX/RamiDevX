@@ -1,7 +1,4 @@
 
-<img width="1000" height="300" alt="Animations_sprites - Paulo Dos Reis" src="https://github.com/user-attachments/assets/63a3f759-20a9-40f2-9278-40cd4bf3409e" />
-<div align="center">
-  
 # Hi, I'm Rami Bitar
 ![Profile Views](https://komarev.com/ghpvc/?username=RamiDevX&color=2563EB&style=flat&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/RamiDevX?color=3B82F6&label=Followers&style=flat&logo=github)
@@ -28,22 +25,6 @@
   </table>
   
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=RamiDevX&show_icons=true&theme=dark" width="49%">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RamiDevX&layout=compact&theme=dark" width="30%">
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-<hr style="border: 2px solid #4ECDC4; border-radius: 5px; width: 80%;">
-<div align="center">
-  
-</div>
-  
 ## 📱 Connect with Me
 
 <div align="center">

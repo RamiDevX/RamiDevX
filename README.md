@@ -8,9 +8,12 @@ Computer Programming Student — Backend Development & Automation
 
 ## 👤 About me
 
-- Studying Computer Programming, focused on backend development and automation
-- Interested in REST APIs, databases, and hardware automation with Arduino
-- Open to internships, collaboration, and freelance opportunities
+- I'm a Computer Programming student with a strong interest in backend development, database design, and automation.
+- I enjoy building clean and efficient RESTful APIs, and I'm always looking for ways to optimize performance and improve system architecture.
+
+- On the hardware side, I love working with Arduino to create automation projects that bridge the gap between software and the physical world.
+- Whether it's controlling sensors, motors, or building smart prototypes, I find it incredibly rewarding.
+
 - Contact: **ramibitar.connect@gmail.com**
 
 ## 💡 Projects

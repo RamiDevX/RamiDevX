@@ -20,18 +20,6 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 
 ---
 
-## 🚀 Current Focus
-
-* Backend Development
-* REST API Design
-* Database Design & SQL
-* Python Development
-* Arduino & IoT
-* Software Architecture
-* Open Source Contributions
-
----
-
 ## 💡 Featured Projects
 
 | Project                                                    | Description                                                                                                    | Technologies                |

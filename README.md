@@ -43,6 +43,8 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 
 </div>
 
+<img width="860" height="230" alt="image" src="https://github.com/user-attachments/assets/5ab1a83d-d599-4b14-8ea3-f25097cddd26" />
+
 ## 📫 Connect With Me
 
 <div align="center">

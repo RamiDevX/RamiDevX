@@ -8,8 +8,7 @@
 
 </div>
 
-<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00C9FF,100:92FE9D&height=100&section=footer"/>
 ## 👨‍💻 About Me
 
 I'm a **Computer Programming** student passionate about **backend development**, **software engineering**, and **automation**.

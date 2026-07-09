@@ -62,6 +62,6 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 
  **Thanks for visiting my profile!** 💙 
  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img width="1166" height="184" alt="pacman-contribution-graph-dark" src="https://github.com/user-attachments/assets/654911ba-1d3c-4cc9-bf96-203e81e21870" />
 
 </div>

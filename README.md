@@ -7,8 +7,6 @@
 
 ### Computer Programming Student 
 
-*Building reliable software, practical automation, and continuously learning.*
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>

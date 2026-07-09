@@ -1,201 +1,101 @@
-# Hi, I'm Rami Bitar
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=300&color=4ECDC4&center=true&vCenter=true&width=600&height=50&lines=مرحبًا!+أنا+Rami+Bitar+%7C+RamiDevX" />
+
+<img src="assets/profile.jpg" width="140" style="border-radius:50%;">
+
+# Hi, I'm Rami Bitar 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Computer+Programming+Student;Backend+Development+%26+Automation;Always+Learning+Something+New" alt="Typing SVG" />
+
+<img src="assets/banner.gif" width="100%">
+
+![Profile Views](https://komarev.com/ghpvc/?username=RamiDevX&color=2563EB&style=flat&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/RamiDevX?color=3B82F6&label=Followers&style=flat&logo=github)
+
 </div>
 
----
+<br>
 
-## نظرة عامة
-
-هذا المستودع يجمع مشاريعي الشخصية وأدواتي المفتوحة المصدر مع توثيق احترافي يساعد المطورين والمستخدمين على فهم واستخدام المشاريع بسرعة.
-
-لقد قمت بترتيب وتحسين README ليكون منظماً، احترافياً، ومُجهزًا بقسم مفصل لمشروع "Noorify Bot" كما طلبت.
-
----
-
-## المحتوى
-
-- [حول المالك](#حول-المالك)
-- [التقنيات](#التقنيات)
-- [التواصل](#التواصل)
-- [مشروع: Noorify Bot](#مشروع-noorify-bot)
-  - [نظرة عامة](#نظرة-عامة)
-  - [الميزات](#الميزات)
-  - [التقنيات المستخدمة](#التقنيات-المستخدمة)
-  - [هيكلية المشروع](#هيكلية-المشروع)
-  - [التثبيت والإعداد](#التثبيت-والإعداد)
-  - [المتغيرات البيئية](#المتغيرات-البيئية)
-  - [التشغيل والنشر](#التشغيل-والنشر)
-  - [أمثلة للاستخدام](#أمثلة-للاستخدام)
-- [مشاريع أخرى](#مشاريع-أخرى)
-- [المساهمة](#المساهمة)
-- [الترخيص](#الترخيص)
-
----
-
-## حول المالك
-
-- الاسم: Rami Bitar (RamiDevX)
-- GitHub: https://github.com/RamiDevX
-
-## التقنيات (موجز)
+## 💻 What I Work With
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=flat&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-3B82F6?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-2563EB?style=flat&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3B82F6?style=flat&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-2563EB?style=flat&logo=arduino&logoColor=white)
+
 </div>
 
----
+<br>
 
-## التواصل
+## 🧑‍💻 About Me
 
-- Telegram: https://t.me/ramidevx
-- Email: ramibitar.connect@gmail.com
-- LinkedIn: https://linkedin.com/in/rami-bitar-16479936b
+- 🔭 Currently studying Computer Programming, focused on backend & automation
+- 🌱 Learning more about backend frameworks and API design
+- 🤝 Open to connecting with developers, students, and companies
+- 📫 Reach me at **ramibitar.connect@gmail.com**
 
----
+<br>
 
-## مشروع: Noorify Bot
+## 📊 GitHub Stats
 
-### نظرة عامة
+<div align="center">
 
-Noorify Bot هو بوت قابل للتخصيص مصمم لتقديم خدمات تفاعلية (ردود آلية، أوامر، إشعارات، تكامل مع APIs، إدارة قنوات/مستخدمين، وغيرها). الهدف أن يكون خفيفًا، قابلًا للتوسيع، وجاهزًا للنشر على منصات مثل Docker، Heroku، أو VPS.
+<img src="https://github-stats-extended.vercel.app/api?username=RamiDevX&show_icons=true&theme=dark" width="49%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RamiDevX&layout=compact&theme=dark" width="30%">
 
-> هذا القسم مُعد كنموذج احترافي. عدّل التفاصيل التقنية أو أوصاف الميزات لتطابق التنفيذ الفعلي.
+<br>
 
-### الميزات
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamiDevX&theme=dark&hide_border=true&background=0D1117&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6" width="80%">
 
-- أوامر تفاعلية قابلة للتخصيص
-- ردود آلية ونظام أحداث
-- تسجيل (Logging) متقدم مع مستويات قابلة للإعداد
-- دعم التخزين/قاعدة بيانات (اختياري)
-- قابلية للعمل عبر Docker وبيئات سحابية
-- نظام صلاحيات للمستخدمين/القنوات
+</div>
 
-### التقنيات المستخدمة (اقتراح)
+<br>
 
-- لغة: Node.js (discord.js) أو Python (discord.py / nextcord)
-- إدارة الحزم: npm / pip
-- بيئة: Docker
-- إعدادات عبر ملف .env و dotenv
+## 🏆 Achievements
 
-عدل القائمة أعلاه بحسب الكود الفعلي داخل مجلد المشروع.
+<div align="center">
 
-### هيكلية المشروع (مقترح)
+![Trophies](https://github-profile-trophy.vercel.app/?username=RamiDevX&theme=algolia&no-frame=true&row=1&column=6&margin-w=10)
 
-```
-/noorify-bot/
-├─ README.md
-├─ LICENSE
-├─ .env.example
-├─ Dockerfile
-├─ docker-compose.yml
-├─ package.json  # أو requirements.txt
-├─ src/
-│  ├─ index.js (أو main.py)
-│  ├─ commands/
-│  ├─ events/
-│  └─ utils/
-└─ data/  # قواعد بيانات محلية أو ملفات تخزين
-```
+</div>
 
-### التثبيت والإعداد
+<br>
 
-1) استنساخ المستودع:
+## 🚀 Featured Projects
 
-   git clone https://github.com/RamiDevX/RamiDevX.git
-   cd RamiDevX/noorify-bot
+<div align="center">
 
-2) تثبيت الاعتمادات (Node.js مثال):
+| Project | Description | Tech |
+|---|---|---|
+| **[Noorify Bot](https://github.com/RamiDevX/Noorify_Bot)** | Telegram bot that sends scheduled Islamic reminders (Quran verses, duas, hadiths) to chats, groups & channels | `Python` `Aiogram` `SQLite` |
 
-   npm install
+</div>
 
-أو (Python مثال):
+<br>
 
-   python -m venv venv
-   source venv/bin/activate
-   pip install -r requirements.txt
+## 🌐 Connect With Me
 
-3) إعداد ملف المتغيرات البيئية:
+<div align="center">
 
-   cp .env.example .env
-   # ثم عدّل القيم بحسب الحاجة
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rami-bitar-16479936b)
+[![Telegram](https://img.shields.io/badge/Telegram-3B82F6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ramidevx)
+[![Instagram](https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramidevx/)
+[![Gmail](https://img.shields.io/badge/Gmail-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramibitar.connect@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-2563EB?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ramibitarr)
 
-### المتغيرات البيئية (نماذج)
+</div>
 
-ضع القيم المناسبة في `.env`:
+<br>
 
-- BOT_TOKEN=your_bot_token_here
-- PREFIX=!
-- DB_URI=your_database_url (اختياري)
-- LOG_LEVEL=info
-- OWNER_ID=your_github_or_user_id (اختياري)
-
-أضف أي متغيرات إضافية يحتاجها التطبيق.
-
-### التشغيل
-
-- تشغيل محلي (Node.js):
-
-  npm start
-
-- تشغيل محلي (Python):
-
-  python src/main.py
-
-- تشغيل عبر Docker:
-
-  docker build -t noorify-bot .
-  docker run --env-file .env --name noorify noorify-bot
-
-### أمثلة للاستخدام
-
-- `!help` — يعرض قائمة الأوامر
-- `!ping` — اختبار استجابة البوت
-- `!subscribe <topic>` — الاشتراك في إشعارات لموضوع
+<div align="center">
 
 ---
 
-## مشاريع أخرى
+⭐ **Thanks for visiting my profile!**
 
-أدرج هنا وصفًا موجزًا لكل مشروع آخر داخل المستودع مع روابط للمجلدات الخاصة بهم.
-
-مثال:
-
-- `/project-alpha` — أداة لإدارة المهام
-- `/project-beta` — مكتبة لمعالجة النصوص
-
----
-
-## المساهمة
-
-مرحب بالمساهمات! يرجى اتباع الإرشادات التالية:
-
-1. افتح Issue قبل العمل على ميزات كبيرة.
-2. أنشئ فرعًا باسم وصفي من الفرع الرئيسي: `feature/<short-description>` أو `fix/<short-description>`.
-3. قدّم Pull Request مع شرح واضح للتغييرات وكيفية الاختبار.
-4. اتبع قواعد الترميز والتنسيق الموجودة في المشروع.
-
----
-
-## الترخيص
-
-حدد رخصة للمستودع (مثل MIT). يمكنك إضافة ملف `LICENSE` منفصل.
-
-```
-MIT License
-```
-
----
-
-## ملاحظات ختامية
-
-قمت بتحسين README وتنظيمه وأضفت قسمًا مفصلاً لمشروع Noorify Bot. إذا رغبت، أستطيع الآن:
-
-- إنشاء المجلد `noorify-bot/` داخل المستودع مع ملفات بداية (starter) مثل `src/index.js`, `.env.example`, و`Dockerfile`.
-- كتابة README منفصل داخل `noorify-bot/README.md` باللغتين العربية والإنجليزية.
-
-أخبرني إذا أريدني أضيف الملفات المبدئية وسأقوم بإنشائها مباشرةً.
+</div>

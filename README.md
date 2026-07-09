@@ -9,7 +9,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 🔹 About Me
 
 I'm a **Computer Programming** student passionate about **backend development**, **software engineering**, and **automation**.
 

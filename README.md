@@ -43,8 +43,7 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
+https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif
 
 ## 📫 Connect With Me
 

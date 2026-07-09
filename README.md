@@ -15,6 +15,13 @@ Computer Programming Student — Backend Development & Automation
 - Open to internships, collaboration, and freelance opportunities
 - Contact: **ramibitar.connect@gmail.com**
 
+## Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **[Noorify Bot](https://github.com/RamiDevX/Noorify_Bot)** | Telegram bot that sends scheduled Islamic reminders (Quran verses, duas, hadiths) to chats and groups | `Python` `Aiogram` `SQLite` |
+
+
 ## Tech Stack
 
 <div align="center">
@@ -38,12 +45,6 @@ Computer Programming Student — Backend Development & Automation
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RamiDevX&layout=compact&theme=dark" width="30%">
 
 </div>
-
-## Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **[Noorify Bot](https://github.com/RamiDevX/Noorify_Bot)** | Telegram bot that sends scheduled Islamic reminders (Quran verses, duas, hadiths) to chats and groups | `Python` `Aiogram` `SQLite` |
 
 ## Connect
 

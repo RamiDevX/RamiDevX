@@ -28,8 +28,6 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 
 > More projects are coming soon.
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -45,8 +43,6 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 
 </div>
 
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -59,8 +55,6 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 [![DevSpace](https://img.shields.io/badge/Telegram-Channel-000000?style=flat-square\&logo=telegram\&logoColor=26A5E4)](https://t.me/DevSpaceOfficial)
 
 </div>
-
----
 
 <div align="center">
 

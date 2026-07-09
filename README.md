@@ -18,9 +18,7 @@ I enjoy designing and developing scalable **REST APIs**, building efficient data
 
 Beyond software, I work with **Arduino** to create automation and IoT projects, combining programming with electronics to build smart, interactive systems.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## 💡 Featured Projects
 

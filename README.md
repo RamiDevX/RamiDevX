@@ -1,4 +1,4 @@
-<img width="736" height="414" alt="The-pain-of-discipline-is-better-than-the-pain-of-regret Desktop wallpaper" src="https://github.com/user-attachments/assets/979d2245-2c56-4402-ab9a-0a5c03550714" />
+<img width="2000" height="700" alt="The-pain-of-discipline-is-better-than-the-pain-of-regret Desktop wallpaper" src="https://github.com/user-attachments/assets/979d2245-2c56-4402-ab9a-0a5c03550714" />
 
 
 <div align="center">

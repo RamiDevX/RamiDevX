@@ -2,7 +2,7 @@
 
 #  Hi, I'm Rami Bitar👋
 
-### Backend Developer • Computer Programming Student • Arduino & Automation Enthusiast
+### Backend Developer • Computer Programming Student 
 
 *Building reliable software, practical automation, and continuously learning.*
 

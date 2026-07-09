@@ -5,7 +5,7 @@
 
 #  Hi, I'm Rami Bitar👋
 
-### Computer Programming Student 
+### Computer Programming Student 👨‍💻
 
 </div>
 

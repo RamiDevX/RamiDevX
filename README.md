@@ -41,9 +41,6 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 
 </div>
 
-<img width="1166" height="184" alt="pacman-contribution-graph-dark" src="https://github.com/user-attachments/assets/654911ba-1d3c-4cc9-bf96-203e81e21870" />
-
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -56,6 +53,8 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 [![DevSpace](https://img.shields.io/badge/Telegram-Channel-000000?style=flat-square\&logo=telegram\&logoColor=26A5E4)](https://t.me/DevSpaceOfficial)
 
 </div>
+
+<img width="1166" height="184" alt="pacman-contribution-graph-dark" src="https://github.com/user-attachments/assets/654911ba-1d3c-4cc9-bf96-203e81e21870" />
 
 <div align="center">
 

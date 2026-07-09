@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/profile.jpg" width="140" style="border-radius:50%;">
-
 # Hi, I'm Rami Bitar 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Computer+Programming+Student;Backend+Development+%26+Automation;Always+Learning+Something+New" alt="Typing SVG" />

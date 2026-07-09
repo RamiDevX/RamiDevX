@@ -66,6 +66,6 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 
 ###  *"Clean Code. Smart Automation. Continuous Learning."*
 
- **Thanks for visiting my profile!**
+ **Thanks for visiting my profile!** 💙
 
 </div>

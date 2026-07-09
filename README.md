@@ -55,14 +55,12 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 
 </div>
 
-<img width="1166" height="184" alt="pacman-contribution-graph-dark" src="https://github.com/user-attachments/assets/654911ba-1d3c-4cc9-bf96-203e81e21870" />
-
 <div align="center">
 
 ###  *"Clean Code. Smart Automation. Continuous Learning."*
 
  **Thanks for visiting my profile!** 💙 
  
-<img width="3000" height="100" alt="212284100-561aa473-3905-4a80-b561-0d28506553ee" src="https://github.com/user-attachments/assets/b3eec315-1add-4c9f-8b44-7623bd7484e6" />
+<img width="1166" height="184" alt="pacman-contribution-graph-dark" src="https://github.com/user-attachments/assets/654911ba-1d3c-4cc9-bf96-203e81e21870" />
 
 </div>

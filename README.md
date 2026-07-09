@@ -4,25 +4,23 @@
 
 Computer Programming Student — Backend Development & Automation
 
-<img src="assets/banner.gif" width="100%">
-
 </div>
 
-## About
+## 👤 About me
 
 - Studying Computer Programming, focused on backend development and automation
 - Interested in REST APIs, databases, and hardware automation with Arduino
 - Open to internships, collaboration, and freelance opportunities
 - Contact: **ramibitar.connect@gmail.com**
 
-## Projects
+## 💡 Projects
 
 | Project | Description | Tech |
 |---|---|---|
 | **[Noorify Bot](https://github.com/RamiDevX/Noorify_Bot)** | Telegram bot that sends scheduled Islamic reminders (Quran verses, duas, hadiths) to chats and groups | `Python` `Aiogram` `SQLite` |
 
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -37,7 +35,7 @@ Computer Programming Student — Backend Development & Automation
 
 </div>
 
-## Connect
+## 📩 Connect
 
 <div align="center">
 
@@ -47,4 +45,8 @@ Computer Programming Student — Backend Development & Automation
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ramibitar.connect@gmail.com)
 [![Linktree](https://img.shields.io/badge/Linktree-000000?style=flat-square&logo=linktree&logoColor=43E55E)](https://linktr.ee/ramibitarr)
 
+</div>
+
+Thanks for visiting my profile ❤️ 
+ 
 </div>

@@ -25,6 +25,7 @@
   </table>
   
 </div>
+
 ## 📱 Connect with Me
 
 <div align="center">

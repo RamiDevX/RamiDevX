@@ -37,15 +37,6 @@ Computer Programming Student — Backend Development & Automation
 
 </div>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=RamiDevX&show_icons=true&theme=dark" width="49%">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RamiDevX&layout=compact&theme=dark" width="30%">
-
-</div>
-
 ## Connect
 
 <div align="center">

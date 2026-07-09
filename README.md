@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rami Bitar
+#  Hi, I'm Rami Bitar👋
 
 ### Backend Developer • Computer Programming Student • Arduino & Automation Enthusiast
 
@@ -59,28 +59,6 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamiDevX\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamiDevX\&layout=compact\&theme=github_dark\&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Goals
-
-* Build high-quality backend applications
-* Contribute to open-source projects
-* Master modern backend technologies
-* Create practical automation and IoT solutions
-* Continuously improve as a Software Engineer
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -98,8 +76,8 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 
 <div align="center">
 
-### 💬 *"Clean Code. Smart Automation. Continuous Learning."*
+###  *"Clean Code. Smart Automation. Continuous Learning."*
 
-⭐ **Thanks for visiting my profile!**
+ **Thanks for visiting my profile!**
 
 </div>

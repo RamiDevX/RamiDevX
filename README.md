@@ -9,8 +9,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
 ## 👨‍💻 About Me
 
 I'm a **Computer Programming** student passionate about **backend development**, **software engineering**, and **automation**.
@@ -18,6 +16,8 @@ I'm a **Computer Programming** student passionate about **backend development**,
 I enjoy designing and developing scalable **REST APIs**, building efficient database structures, and writing clean, maintainable code that solves real-world problems.
 
 Beyond software, I work with **Arduino** to create automation and IoT projects, combining programming with electronics to build smart, interactive systems.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## 💡 Featured Projects
 

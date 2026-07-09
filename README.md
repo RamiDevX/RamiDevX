@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/profile.jpg" width="120" style="border-radius:50%;">
-
 # Rami Bitar
 
 Computer Programming Student — Backend Development & Automation

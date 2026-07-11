@@ -25,6 +25,9 @@ Beyond software, I work with **Arduino** to create automation and IoT projects, 
 | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------- |
 | **[Noorify Bot](https://github.com/RamiDevX/Noorify_Bot)** | Telegram bot that delivers scheduled Quran verses, Hadiths, and Islamic reminders to groups and private chats. | `Python` `Aiogram` `SQLite` |
 
+| Project | Description | Technologies |
+|---|---|---|
+| **[Safaa AI](https://github.com/RamiDevX/Safaa-AI)** | Telegram bot that separates vocals from background music using AI (Demucs). Send a YouTube link or upload an MP3 and get an isolated vocal track. | `Python` `Aiogram` `Demucs` `PyTorch` `yt-dlp` |
 > More projects are coming soon.
 
 ## 🛠️ Tech Stack

@@ -21,6 +21,8 @@ Currently, I'm exploring the intersection of **automation** and **AI-powered too
 
 > 📌 More projects are coming soon — stay tuned!
 
+<div align="center">
+  
 ## 🛠️ Tech Stack
 
 <div align="center">

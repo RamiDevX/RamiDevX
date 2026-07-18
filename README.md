@@ -1,43 +1,43 @@
-
 <div align="center">
 
-#  Hi, I'm Rami Bitar👋
-
-### Computer Programming Student 👨‍💻
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:8b5cf6,100:ec4899&height=200&section=header&text=Rami%20Bitar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Computer%20Programming%20Student%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
 </div>
 
 ## 🔹 About Me
 
-I'm a **Computer Programming** student passionate about **backend development**, **software engineering**, and **automation**.
+I'm a **Computer Programming** student with a strong focus on **backend development** and building practical software solutions. I enjoy designing **REST APIs**, structuring databases efficiently, and automating repetitive tasks through clean, maintainable code.
 
-I enjoy designing and developing scalable **REST APIs**, building efficient database structures, and writing clean, maintainable code that solves real-world problems.
+Currently, I'm exploring the intersection of **automation** and **AI-powered tools** — building Telegram bots that solve real problems for real users. I value code that is readable, scalable, and actually useful in daily life.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## 💡 Featured Projects
 
-| Project                                                    | Description                                                                                                    | Technologies                |
-| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| **[Noorify Bot](https://github.com/RamiDevX/Noorify_Bot)** | Telegram bot that delivers scheduled Quran verses, Hadiths, and Islamic reminders to groups and private chats. | `Python` `Aiogram` `SQLite` |
-
-| Project | Description | Technologies |
+| Project | Description | Stack |
 |---|---|---|
-| **[Safaa AI](https://github.com/RamiDevX/Safaa-AI)** | Telegram bot that separates vocals from background music using AI (Demucs). Send a YouTube link or upload an MP3 and get an isolated vocal track. | `Python` `Aiogram` `Demucs` `PyTorch` `yt-dlp` |
-> More projects are coming soon.
+| **[Noorify Bot](https://github.com/RamiDevX/Noorify_Bot)** | Telegram bot delivering scheduled Quran verses, Hadiths & Islamic reminders to groups and private chats. | `Python` `Aiogram` `SQLite` |
+| **[Safaa AI](https://github.com/RamiDevX/Safaa-AI)** | AI-powered Telegram bot that isolates vocals from music using Demucs. Supports YouTube links & MP3 uploads. | `Python` `Aiogram` `Demucs` `PyTorch` `yt-dlp` |
+
+> 📌 More projects are coming soon — stay tuned!
 
 ## 🛠️ Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square\&logo=python\&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square\&logo=css3\&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square\&logo=mysql\&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github\&logoColor=FFFFFF)
-![Arduino](https://img.shields.io/badge/Arduino-000000?style=flat-square\&logo=arduino\&logoColor=00979D)
+<img src="https://github-readme-stats.vercel.app/api?username=RamiDevX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiDevX&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
 
 </div>
 
@@ -45,15 +45,18 @@ I enjoy designing and developing scalable **REST APIs**, building efficient data
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square\&logo=linkedin\&logoColor=0A66C2)](https://linkedin.com/in/rami-bitar-16479936b)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat-square\&logo=telegram\&logoColor=26A5E4)](https://t.me/ramidevx)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square\&logo=instagram\&logoColor=E4405F)](https://www.instagram.com/ramidevx/)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square\&logo=gmail\&logoColor=EA4335)](mailto:ramibitar.connect@gmail.com)
-[![Linktree](https://img.shields.io/badge/Linktree-000000?style=flat-square\&logo=linktree\&logoColor=43E55E)](https://linktr.ee/ramibitarr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rami-bitar-16479936b)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ramidevx)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramidevx/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramibitar.connect@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/ramibitarr)
+
 </div>
 
 <div align="center">
 
- **Thanks for visiting my profile!** 💙 
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:3b82f6&height=100&section=footer" width="100%"/>
+
+**Thanks for visiting my profile!** 💙
+
 </div>

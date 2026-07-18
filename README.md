@@ -32,8 +32,6 @@ Currently, I'm exploring the intersection of **automation** and **AI-powered too
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -43,8 +41,6 @@ Currently, I'm exploring the intersection of **automation** and **AI-powered too
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ramidevx/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ramibitar.connect@gmail.com)
 [![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat-square&logo=linktree&logoColor=black)](https://linktr.ee/ramibitarr)
-
-</div>
 
 <div align="center">
 

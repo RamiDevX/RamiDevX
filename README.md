@@ -50,8 +50,6 @@ I enjoy designing and developing scalable **REST APIs**, building efficient data
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square\&logo=instagram\&logoColor=E4405F)](https://www.instagram.com/ramidevx/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square\&logo=gmail\&logoColor=EA4335)](mailto:ramibitar.connect@gmail.com)
 [![Linktree](https://img.shields.io/badge/Linktree-000000?style=flat-square\&logo=linktree\&logoColor=43E55E)](https://linktr.ee/ramibitarr)
-[![DevSpace](https://img.shields.io/badge/Telegram-Channel-000000?style=flat-square\&logo=telegram\&logoColor=26A5E4)](https://t.me/DevSpaceOfficial)
-
 </div>
 
 <div align="center">

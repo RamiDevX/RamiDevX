@@ -42,8 +42,6 @@ Currently, I'm exploring the intersection of **automation** and **AI-powered too
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ramibitar.connect@gmail.com)
 [![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat-square&logo=linktree&logoColor=black)](https://linktr.ee/ramibitarr)
 
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:3b82f6&height=100&section=footer" width="100%"/>
 
 **Thanks for visiting my profile!** 💙

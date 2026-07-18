@@ -50,8 +50,6 @@ Currently, I'm exploring the intersection of **automation** and **AI-powered too
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:3b82f6&height=100&section=footer" width="100%"/>
-
 **Thanks for visiting my profile!** 💙
 
 </div>

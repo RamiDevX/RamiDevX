@@ -74,6 +74,5 @@ Currently, I'm exploring the intersection of **automation** and **AI-powered too
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
+###  Thanks for visiting my profile!
 </div>

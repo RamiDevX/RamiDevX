@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Rami Bitar
+#  Rami Bitar
 
 ### Computer Programming Student | Backend Developer
 

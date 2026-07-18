@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:3b82f6&height=200&section=header&text=Rami%20Bitar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Computer%20Programming%20Student%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:2563eb,100:3b82f6&height=80&section=header&text=Rami%20Bitar&fontSize=40&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+### Computer Programming Student 👨‍💻
 
 </div>
 

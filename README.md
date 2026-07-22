@@ -74,6 +74,8 @@ AI-powered Telegram bot that isolates vocals from music using Demucs.
 
 </div>
 
-⭐ Thanks for stopping by!
+<div align="center">
+  
+  Thanks for stopping by!
 
 </div>

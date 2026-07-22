@@ -66,16 +66,10 @@ AI-powered Telegram bot that isolates vocals from music using Demucs.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rami-bitar-16479936b)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ramidevx)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramidevx/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramibitar.connect@gmail.com)
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/ramibitarr)
+<a href="https://linkedin.com/in/rami-bitar-16479936b"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" alt="LinkedIn"/></a>    <a href="https://t.me/ramidevx"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="50" height="50" alt="Telegram"/></a>    <a href="https://www.instagram.com/ramidevx/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50" alt="Instagram"/></a>    <a href="mailto:ramibitar.connect@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50" alt="Gmail"/></a>    <a href="https://linktr.ee/ramibitarr"><img src="https://cdn.simpleicons.org/linktree/43E55E" width="50" height="50" alt="Linktree"/></a>
 
-</div>
-
-<div align="center">
-
+</div> <div align="center">
+  
 ⭐ Thanks for stopping by!
 
 </div>

@@ -46,6 +46,10 @@ AI-powered Telegram bot that isolates vocals from music using Demucs.
 
 <div align="center">
 
+### 🎙️ [KhulasaAI](https://github.com/RamiDevX/KhulasaAI)
+Privacy-first meeting summarizer — turns voice recordings into summaries & action items using local AI.
+
+`Python` `Aiogram` `Ollama` `Whisper` `SQLite`
 *More projects coming soon.*
 
 </div>

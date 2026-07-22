@@ -2,7 +2,7 @@
 
 # Hi, I'm Rami Bitar 👋
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Building+APIs+%26+Bots;Python+%7C+Automation+%7C+AI&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&pause=1500&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Building+APIs+%26+Bots;Python+%7C+Automation+%7C+AI&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true" />
 
 </div>
 
@@ -23,43 +23,14 @@ Right now I'm exploring where **automation** meets **AI** — using Python and A
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📿 [Noorify Bot](https://github.com/RamiDevX/Noorify_Bot)
-Telegram bot delivering scheduled Quran verses, Hadiths & Islamic reminders.
-
-`Python` `Aiogram` `SQLite`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎵 [Safaa AI](https://github.com/RamiDevX/Safaa-AI)
-AI-powered Telegram bot that isolates vocals from music using Demucs.
-
-`Python` `Aiogram` `Demucs` `PyTorch`
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|-----------|-----------|
+| 📿 **Noorify Bot** | Telegram bot delivering scheduled Quran verses, Hadiths & Islamic reminders | `Python` `Aiogram` `SQLite` | [View Repo](https://github.com/RamiDevX/Noorify_Bot) |
+| 🎵 **Safaa AI** | AI-powered Telegram bot that isolates vocals from music using Demucs | `Python` `Aiogram` `Demucs` `PyTorch` | [View Repo](https://github.com/RamiDevX/Safaa-AI) |
+| 🎙️ **KhulasaAI** | Privacy-first meeting summarizer — turns voice recordings into summaries & action items using local AI | `Python` `Aiogram` `Ollama` `Whisper` `SQLite` | [View Repo](https://github.com/RamiDevX/KhulasaAI) |
 
 <div align="center">
-
-### 🎙️ [KhulasaAI](https://github.com/RamiDevX/KhulasaAI)
-Privacy-first meeting summarizer — turns voice recordings into summaries & action items using local AI.
-Python Aiogram Ollama Whisper SQLite
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
-</table>
-<div align="center">
-  
-More projects coming soon.
-
-</div>
-
+  <p><i>More projects coming soon.</i></p>
 </div>
 
 <br>
@@ -87,7 +58,5 @@ More projects coming soon.
 </div>
 
 <div align="center">
-  
-  Thanks for stopping by!
-
+  <p>Thanks for stopping by! 🙌</p>
 </div>

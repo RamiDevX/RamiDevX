@@ -66,10 +66,16 @@ AI-powered Telegram bot that isolates vocals from music using Demucs.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/rami-bitar-16479936b"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" alt="LinkedIn"/></a>    <a href="https://t.me/ramidevx"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="50" height="50" alt="Telegram"/></a>    <a href="https://www.instagram.com/ramidevx/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50" alt="Instagram"/></a>    <a href="mailto:ramibitar.connect@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50" alt="Gmail"/></a>    <a href="https://linktr.ee/ramibitarr"><img src="https://cdn.simpleicons.org/linktree/43E55E" width="50" height="50" alt="Linktree"/></a>
+<a href="https://linkedin.com/in/rami-bitar-16479936b"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="64" height="64" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/ramidevx"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" width="64" height="64" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/ramidevx/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="64" height="64" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:ramibitar.connect@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="64" height="64" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linktr.ee/ramibitarr"><img src="https://cdn.simpleicons.org/linktree/43E55E" width="64" height="64" alt="Linktree"/></a>
 
-</div> <div align="center">
-  
+</div>
+
+<div align="center">
+
 ⭐ Thanks for stopping by!
 
 </div>

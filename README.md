@@ -50,6 +50,10 @@ AI-powered Telegram bot that isolates vocals from music using Demucs.
 Privacy-first meeting summarizer — turns voice recordings into summaries & action items using local AI.
 
 `Python` `Aiogram` `Ollama` `Whisper` `SQLite`
+
+<table>
+<tr>
+  
 *More projects coming soon.*
 
 </div>

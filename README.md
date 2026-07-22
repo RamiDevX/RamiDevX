@@ -2,7 +2,7 @@
 
 # I'm Rami Bitar👋
 
-### Computer Programming Student | Backend Developer
+### Backend Developer
 
 </div>
 

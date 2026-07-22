@@ -25,9 +25,9 @@ Right now I'm exploring where **automation** meets **AI** — using Python and A
 
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|-----------|-----------|
-| 📿 **Noorify Bot** | Telegram bot delivering scheduled Quran verses, Hadiths & Islamic reminders | `Python` `Aiogram` `SQLite` | [View Repo](https://github.com/RamiDevX/Noorify_Bot) |
-| 🎵 **Safaa AI** | AI-powered Telegram bot that isolates vocals from music using Demucs | `Python` `Aiogram` `Demucs` `PyTorch` | [View Repo](https://github.com/RamiDevX/Safaa-AI) |
-| 🎙️ **KhulasaAI** | Privacy-first meeting summarizer — turns voice recordings into summaries & action items using local AI | `Python` `Aiogram` `Ollama` `Whisper` `SQLite` | [View Repo](https://github.com/RamiDevX/KhulasaAI) |
+| **Noorify Bot** | Telegram bot delivering scheduled Quran verses, Hadiths & Islamic reminders | `Python` `Aiogram` `SQLite` | [View Repo](https://github.com/RamiDevX/Noorify_Bot) |
+| **Safaa AI** | AI-powered Telegram bot that isolates vocals from music using Demucs | `Python` `Aiogram` `Demucs` `PyTorch` | [View Repo](https://github.com/RamiDevX/Safaa-AI) |
+| **KhulasaAI** | Privacy-first meeting summarizer — turns voice recordings into summaries & action items using local AI | `Python` `Aiogram` `Ollama` `Whisper` `SQLite` | [View Repo](https://github.com/RamiDevX/Khulasa-AI) |
 
 <div align="center">
   <p><i>More projects coming soon.</i></p>

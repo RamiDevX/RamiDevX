@@ -66,15 +66,13 @@ AI-powered Telegram bot that isolates vocals from music using Demucs.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/rami-bitar-16479936b"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="64" height="64" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/ramidevx"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" width="64" height="64" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/ramidevx/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="64" height="64" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:ramibitar.connect@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="64" height="64" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://linktr.ee/ramibitarr"><img src="https://cdn.simpleicons.org/linktree/43E55E" width="64" height="64" alt="Linktree"/></a>
+<a href="https://linkedin.com/in/rami-bitar-16479936b"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://t.me/ramidevx"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" width="40" height="40" alt="Telegram"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/ramidevx/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="40" height="40" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="mailto:ramibitar.connect@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="40" height="40" alt="Gmail"/></a>&nbsp;&nbsp;
+<a href="https://linktr.ee/ramibitarr"><img src="https://cdn.simpleicons.org/linktree/43E55E" width="40" height="40" alt="Linktree"/></a>
 
 </div>
-
-<div align="center">
 
 ⭐ Thanks for stopping by!
 

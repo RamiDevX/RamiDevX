@@ -10,10 +10,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
 ## 🚀 Featured Projects
 
 <table width="100%" style="border-collapse: collapse; border: none;">
@@ -105,6 +101,10 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284120-729bc9dd-807d-4cf9-9833-2a4c142d76f0.gif" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ## 🛠 Tech Stack & Tools

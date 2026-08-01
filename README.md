@@ -1,7 +1,3 @@
-<img width="1254" height="1254" alt="photo_3_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/19818b23-d2c2-4a1d-bea6-b13bc1c56951" />
-<img width="1254" height="1254" alt="photo_2_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/5062a1a4-c025-4fb9-a8b5-2102997f11a7" />
-<img width="1254" height="1254" alt="photo_1_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/1d825606-8c04-48de-bf29-dc6730c22740" />
-
 <div align="center">
 
 # Hi, I'm Rami Bitar 👋
@@ -20,7 +16,7 @@
   <!-- NoorifyBot Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-     <img src="image_0.png" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="image_3.png" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>🕌 NoorifyBot</h3>
@@ -39,7 +35,7 @@
   <!-- Safaa AI Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="image_2.png" width="160" alt="Safaa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="image_5.png" width="160" alt="Safaa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>🎵 Safaa AI</h3>
@@ -58,7 +54,7 @@
   <!-- Khulasa AI Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="image_1.png" width="160" alt="Khulasa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="image_4.png" width="160" alt="Khulasa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>📝 Khulasa AI</h3>
@@ -85,7 +81,10 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 </div>
 
-<br>
+<br><img width="1254" height="1254" alt="photo_3_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/527fd574-6583-42d5-abb1-bb482f1b07b1" />
+<img width="1254" height="1254" alt="photo_2_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/ebfefb7b-730d-4405-a8fb-4f76494e1445" />
+<img width="1254" height="1254" alt="photo_1_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/95c11cbd-3918-431b-bf60-1f0b9760b92c" />
+
 
 ## 📊 GitHub Stats
 

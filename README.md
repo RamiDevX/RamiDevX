@@ -10,7 +10,6 @@
 
 <br>
 
-<!-- فاصل متحرك متدرج -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
@@ -100,39 +99,10 @@
 
 <br>
 
-<!-- فاصل نيون أزرق متحرك -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-21e7-439c-8378-f78f1af2c71e.gif" width="100%">
 </div>
 
-## 👨‍💻 About Me
-
-I'm a Computer Programming student focused on backend development and building practical, real-world software.
-
-- 🏗 Designing and implementing REST APIs
-- 💾 Structuring databases efficiently
-- 🤖 Building AI-powered automation tools
-- 📱 Developing Telegram bots that solve real problems
-
-Right now I'm exploring where automation meets AI — using Python and Aiogram to build bots that actually deliver value. I care about code that's readable, scalable, and easy to maintain.
-
-<br>
-
-<!-- فاصل تدرج لوني أزرق (Ocean Blue) -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,8,12,16&height=4&section=header" width="100%">
-</div>
-
-## ⚡️ Currently
-
-- 🔭 Working on: Khulasa AI — a privacy-first meeting summarizer.
-- 🌱 Learning: Docker & CI/CD for deploying bots reliably.
-- 👯 Open to collaborate on: AI-powered Telegram bots and backend architectures.
-- 💬 Ask me about: Python, Aiogram, REST APIs, and local AI integration (Ollama/Whisper).
-
-<br>
-
-<!-- فاصل نيون بنفسجي متحرك -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284120-729bc9dd-807d-4cf9-9833-2a4c142d76f0.gif" width="100%">
 </div>
@@ -185,7 +155,6 @@ Right now I'm exploring where automation meets AI — using Python and Aiogram t
 
 <br>
 
-<!-- فاصل تدرج لوني Sunset (أصفر إلى برتقالي ووردي) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,20,25,30,35&height=4&section=header" width="100%">
 </div>
@@ -199,7 +168,6 @@ Right now I'm exploring where automation meets AI — using Python and Aiogram t
 
 <br>
 
-<!-- فاصل نيون أخضر متحرك -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284125-a1306385-aa38-4e8c-90b4-52d24269e8ae.gif" width="100%">
 </div>

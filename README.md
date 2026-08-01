@@ -1,4 +1,3 @@
-<img width="1254" height="1254" alt="photo_1_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/32e08a86-c2a5-43ca-89a0-5a68fc718317" />
 
 <div align="center">
 
@@ -18,8 +17,9 @@
   <!-- NoorifyBot Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="image_0.png" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-    </td>
+     <img src="image_0.png" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    </td><img width="1254" height="1254" alt="photo_1_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/f046a25f-e424-415d-b5dc-4ec604a89cd2" />
+
     <td width="75%" style="padding: 15px;">
       <h3>🕌 NoorifyBot</h3>
       <p>A Telegram bot delivering scheduled Quran verses, Hadiths & Islamic reminders to keep users connected to their faith.</p>

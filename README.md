@@ -168,10 +168,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284125-a1306385-aa38-4e8c-90b4-52d24269e8ae.gif" width="100%">
-</div>
-
 ## 🌐 Connect with Me
 
 <div align="center">

@@ -1,7 +1,5 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%7C%20AI%20Enthusiast&descAlign=60&descAlignY=75" width="100%" alt="Welcome Banner"/>
-
   <h1>Hi, I'm Rami Bitar 👋</h1>
 
   <a href="https://github.com/RamiDevX">

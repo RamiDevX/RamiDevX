@@ -77,17 +77,59 @@
 
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+</div>
+
+<br>
+
 ## 👨‍💻 About Me
 
 <div align="center">
   <table>
     <tr>
-      <td width="60%">
-        <p>I'm a <b>Computer Programming</b> student focused on backend development and building practical, real-world software that makes a difference.</p>
-        <p>Right now I'm exploring where <b>automation meets AI</b> — using Python and Aiogram to build bots that actually deliver value. I care about code that's readable, scalable, and easy to maintain.</p>
+      <td width="50%" valign="top">
+        <h3 align="center">🎯 What I Do</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Role-Backend%20Developer-36BCF7?style=for-the-badge&logo=server&logoColor=white" alt="Backend Developer" />
+          <br><br>
+          Computer Programming student passionate about building <b>practical, real-world software</b> that solves actual problems.
+        </p>
+        <div align="left">
+          <table>
+            <tr>
+              <td>🏗</td>
+              <td><b>Designing & implementing REST APIs</b></td>
+            </tr>
+            <tr>
+              <td>💾</td>
+              <td><b>Structuring databases efficiently</b></td>
+            </tr>
+            <tr>
+              <td>🤖</td>
+              <td><b>Building AI-powered automation tools</b></td>
+            </tr>
+            <tr>
+              <td>📱</td>
+              <td><b>Developing Telegram bots that solve real problems</b></td>
+            </tr>
+          </table>
+        </div>
       </td>
-      <td width="40%" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF" style="border-radius: 12px;" />
+      <td width="50%" valign="top">
+        <h3 align="center">🧠 My Philosophy</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Focus-Automation%20%2B%20AI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" alt="Automation + AI" />
+          <br><br>
+          Exploring where <b>automation meets AI</b> — using Python and Aiogram to build bots that actually deliver value.
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Readable-Code-4CAF50?style=flat-square&logo=checkmarx&logoColor=white" alt="Readable" />
+          <img src="https://img.shields.io/badge/Scalable-Architecture-2196F3?style=flat-square&logo=apache&logoColor=white" alt="Scalable" />
+          <img src="https://img.shields.io/badge/Maintainable-Projects-FF9800?style=flat-square&logo=codefactor&logoColor=white" alt="Maintainable" />
+        </div>
+        <br>
+        <p align="center"><i>"Code that's readable, scalable, and easy to maintain."</i></p>
       </td>
     </tr>
   </table>
@@ -96,11 +138,7 @@
 <br>
 
 <div align="center">
-
-| 🏗️ **Architecture** | 💾 **Data** | 🤖 **AI & Automation** | 📱 **Bots** |
-|:---:|:---:|:---:|:---:|
-| Designing and implementing REST APIs | Structuring databases efficiently | Building AI-powered automation tools | Developing Telegram bots that solve real problems |
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 </div>
 
 <br>
@@ -108,46 +146,46 @@
 ## ⚡️ Currently
 
 <div align="center">
-
-<table width="90%">
-  <tr>
-    <td width="50%" valign="top">
-
-### 🔭 Working On
-<div style="background: #0D1117; padding: 12px; border-radius: 8px; border-left: 4px solid #36BCF7;">
-
-**Khulasa AI** — A privacy-first meeting summarizer that turns voice recordings into actionable insights using local AI models.
-
-</div>
-
-### 🌱 Learning
-<div style="background: #0D1117; padding: 12px; border-radius: 8px; border-left: 4px solid #43E55E;">
-
-**Docker & CI/CD** — Deploying bots reliably with containerization and automated pipelines.
-
-</div>
-
-</td>
-    <td width="50%" valign="top">
-
-### 👯 Open to Collaborate
-<div style="background: #0D1117; padding: 12px; border-radius: 8px; border-left: 4px solid #F7B731;">
-
-**AI-powered Telegram bots** and **backend architectures** — Let's build something amazing together!
-
-</div>
-
-### 💬 Ask Me About
-<div style="background: #0D1117; padding: 12px; border-radius: 8px; border-left: 4px solid #EE5A6F;">
-
-**Python** · **Aiogram** · **REST APIs** · **Local AI** *(Ollama / Whisper)*
-
-</div>
-
-</td>
-  </tr>
-</table>
-
+  <table width="90%">
+    <tr>
+      <td width="50%" align="center">
+        <h3>🔭 Working On</h3>
+        <a href="https://github.com/RamiDevX/Khulasa-AI">
+          <img src="https://img.shields.io/badge/Khulasa%20AI-Privacy%20First%20Meeting%20Summarizer-36BCF7?style=for-the-badge&logo=ollama&logoColor=white" alt="Khulasa AI" />
+        </a>
+        <br><br>
+        <p>Turns voice recordings into accurate summaries & actionable items using <b>local AI models</b>.</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🌱 Learning</h3>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+        <br><br>
+        <p>Deploying bots reliably with <b>Docker & CI/CD pipelines</b>.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>👯 Open to Collaborate</h3>
+        <img src="https://img.shields.io/badge/AI%20Powered%20Telegram%20Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
+        <img src="https://img.shields.io/badge/Backend%20Architectures-FF6B6B?style=for-the-badge&logo=server&logoColor=white" alt="Backend" />
+        <br><br>
+        <p>Looking for exciting projects in <b>AI-powered bots</b> and <b>backend systems</b>.</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>💬 Ask Me About</h3>
+        <div>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Aiogram" />
+          <img src="https://img.shields.io/badge/REST%20APIs-FF6B6B?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+          <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+          <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="Whisper" />
+        </div>
+        <br>
+        <p>Always happy to discuss <b>Python, bots, APIs & local AI</b>!</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>

@@ -86,39 +86,65 @@
 
 <br>
 
-## 🛠 Tech Stack & Tools
+
+## ⚙️ Technical Arsenal
 
 <div align="center">
-  <table width="100%" style="border-collapse: collapse; border: none;">
-    <tr align="center">
-      <!-- Languages Column -->
-      <td width="33%" style="padding: 10px; vertical-align: top;">
-        <h3>💻 Languages</h3>
-        <img src="https://skillicons.dev/icons?i=python,js,html,css,arduino&perline=3" alt="Languages" />
-      </td>
-      
-      <!-- Backend & Tools Column -->
-      <td width="33%" style="padding: 10px; vertical-align: top;">
-        <h3>🗄️ Backend & DevOps</h3>
-        <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,git,github&perline=3" alt="Tools" />
-      </td>
-      
-      <!-- AI & Automation Column -->
-      <td width="33%" style="padding: 10px; vertical-align: top;">
-        <h3>🤖 AI & Automation</h3>
-        <img src="https://skillicons.dev/icons?i=pytorch&perline=1" alt="PyTorch" />
-        <br><br>
-        <img src="https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Aiogram" />
-        <br><br>
-        <img src="https://img.shields.io/badge/-Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black" alt="Ollama" />
-        <br><br>
-        <img src="https://img.shields.io/badge/-Whisper-000000?style=flat-square&logo=openai&logoColor=white" alt="Whisper" />
-        <br><br>
-        <img src="https://img.shields.io/badge/-Demucs-8A2BE2?style=flat-square&logo=audiomack&logoColor=white" alt="Demucs" />
-      </td>
-    </tr>
-  </table>
+  <p><i>Built with a focus on Clean Code, Scalability, and Intelligent Automation</i></p>
+  <br>
 </div>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <!-- الصف الأول: التطوير والذكاء الاصطناعي -->
+  <tr>
+    <td width="50%" align="center" style="padding: 20px;">
+      <h3 align="center">🏗️ Core Engineering</h3>
+      <p align="center"><sup>Backend architecture and bot development</sup></p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
+        <br><br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML_&_CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Web" />
+      </div>
+    </td>
+    <td width="50%" align="center" style="padding: 20px;">
+      <h3 align="center">🧠 AI & Audio Processing</h3>
+      <p align="center"><sup>Integrating local models and source separation</sup></p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
+        <img src="https://img.shields.io/badge/Demucs-8A2BE2?style=for-the-badge&logo=audiomack&logoColor=white" alt="Demucs" />
+      </div>
+    </td>
+  </tr>
+  
+  <!-- الصف الثاني: قواعد البيانات والبنية التحتية -->
+  <tr>
+    <td width="50%" align="center" style="padding: 20px;">
+      <h3 align="center">🗄️ Data & Storage</h3>
+      <p align="center"><sup>Relational databases and data modeling</sup></p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      </div>
+    </td>
+    <td width="50%" align="center" style="padding: 20px;">
+      <h3 align="center">🚀 DevOps & Hardware</h3>
+      <p align="center"><sup>Deployment, CI/CD, and embedded systems</sup></p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ## 🌐 Connect with Me
 

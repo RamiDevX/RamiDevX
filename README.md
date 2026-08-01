@@ -79,25 +79,79 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Programming student focused on backend development and building practical, real-world software.
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <p>I'm a <b>Computer Programming</b> student focused on backend development and building practical, real-world software that makes a difference.</p>
+        <p>Right now I'm exploring where <b>automation meets AI</b> — using Python and Aiogram to build bots that actually deliver value. I care about code that's readable, scalable, and easy to maintain.</p>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF" style="border-radius: 12px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🏗 Designing and implementing REST APIs
-- 💾 Structuring databases efficiently
-- 🤖 Building AI-powered automation tools
-- 📱 Developing Telegram bots that solve real problems
+<br>
 
-Right now I'm exploring where automation meets AI — using Python and Aiogram to build bots that actually deliver value. I care about code that's readable, scalable, and easy to maintain.
+<div align="center">
+
+| 🏗️ **Architecture** | 💾 **Data** | 🤖 **AI & Automation** | 📱 **Bots** |
+|:---:|:---:|:---:|:---:|
+| Designing and implementing REST APIs | Structuring databases efficiently | Building AI-powered automation tools | Developing Telegram bots that solve real problems |
+
+</div>
 
 <br>
 
 ## ⚡️ Currently
 
-- 🔭 Working on: Khulasa AI — a privacy-first meeting summarizer.
-- 🌱 Learning: Docker & CI/CD for deploying bots reliably.
-- 👯 Open to collaborate on: AI-powered Telegram bots and backend architectures.
-- 💬 Ask me about: Python, Aiogram, REST APIs, and local AI integration (Ollama/Whisper).
+<div align="center">
+
+<table width="90%">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔭 Working On
+<div style="background: #0D1117; padding: 12px; border-radius: 8px; border-left: 4px solid #36BCF7;">
+
+**Khulasa AI** — A privacy-first meeting summarizer that turns voice recordings into actionable insights using local AI models.
+
+</div>
+
+### 🌱 Learning
+<div style="background: #0D1117; padding: 12px; border-radius: 8px; border-left: 4px solid #43E55E;">
+
+**Docker & CI/CD** — Deploying bots reliably with containerization and automated pipelines.
+
+</div>
+
+</td>
+    <td width="50%" valign="top">
+
+### 👯 Open to Collaborate
+<div style="background: #0D1117; padding: 12px; border-radius: 8px; border-left: 4px solid #F7B731;">
+
+**AI-powered Telegram bots** and **backend architectures** — Let's build something amazing together!
+
+</div>
+
+### 💬 Ask Me About
+<div style="background: #0D1117; padding: 12px; border-radius: 8px; border-left: 4px solid #EE5A6F;">
+
+**Python** · **Aiogram** · **REST APIs** · **Local AI** *(Ollama / Whisper)*
+
+</div>
+
+</td>
+  </tr>
+</table>
+
+</div>
 
 <br>
+
 
 ## 📊 GitHub Stats
 

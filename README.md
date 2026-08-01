@@ -103,48 +103,33 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,20,25,30,35&height=4&section=header" width="100%">
 </div>
 
-## 🛠 Tech Stack & Tools
+## 🚀 Tech Arsenal
 
-<div align="center">
+<p align="center">
 
-### 💻 Languages
+### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,arduino" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,arduino"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+### AI & Bots
+
+<img src="https://skillicons.dev/icons?i=pytorch,docker"/>
+
+<img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Whisper-000000?style=flat-square&logo=openai"/>
+<img src="https://img.shields.io/badge/Demucs-8A2BE2?style=flat-square"/>
+
+### Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
+
 </p>
 
----
-
-### 🗄️ Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
----
-
-### 🤖 AI • Automation • Bots
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,docker" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI%20Whisper-000000?style=for-the-badge&logo=openai"/>
-  <img src="https://img.shields.io/badge/Demucs-8A2BE2?style=for-the-badge"/>
-</p>
-
----
-
-### ⚙️ DevOps & Version Control
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-</p>
-
-</div>
 ## 🌐 Connect with Me
 
 <div align="center">

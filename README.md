@@ -9,7 +9,6 @@
 </div>
 
 <br>
-
 ## 🚀 Featured Projects
 
 <table width="100%" style="border-collapse: collapse; border: none;">
@@ -32,7 +31,7 @@
         </a>
         &nbsp;
         <a href="https://github.com/RamiDevX/Noorify-Bot">
-          <img src="https://img.shields.io/badge/Live%20Demo-FFD43B?style=for-the-badge&logo=telegram&logoColor=black" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/Star%20Repo-FFD43B?style=for-the-badge&logo=github&logoColor=black" alt="Star Repo" />
         </a>
       </p>
     </td>
@@ -57,7 +56,7 @@
         </a>
         &nbsp;
         <a href="https://github.com/RamiDevX/Safaa-AI">
-          <img src="https://img.shields.io/badge/Live%20Demo-FFD43B?style=for-the-badge&logo=telegram&logoColor=black" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/Star%20Repo-FFD43B?style=for-the-badge&logo=github&logoColor=black" alt="Star Repo" />
         </a>
       </p>
     </td>
@@ -82,7 +81,7 @@
         </a>
         &nbsp;
         <a href="https://github.com/RamiDevX/Khulasa-AI">
-          <img src="https://img.shields.io/badge/Live%20Demo-FFD43B?style=for-the-badge&logo=openai&logoColor=black" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/Star%20Repo-FFD43B?style=for-the-badge&logo=github&logoColor=black" alt="Star Repo" />
         </a>
       </p>
     </td>
@@ -92,8 +91,6 @@
 <div align="center">
   <p><i>More projects coming soon.</i></p>
 </div>
-
-<br>
 
 ## 📊 GitHub Stats
 

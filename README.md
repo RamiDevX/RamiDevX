@@ -6,6 +6,22 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Building+APIs+%26+Bots;Python+%7C+Automation+%7C+AI&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true" alt="Typing SVG" />
 </a>
 
+<br><br>
+
+<!-- Contact Buttons Section -->
+<a href="https://github.com/RamiDevX">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/rami-bitar-a83a0419a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://t.me/RamiDevX">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="mailto:ramibitar.devx@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
 <br>
@@ -16,8 +32,7 @@
   <!-- NoorifyBot Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="image_3.png" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" /> <img width="1254" height="1254" alt="photo_1_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/57e6292e-8087-44f3-a1da-53f5509951a4" />
-"
+      <img src="image_3.png" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>🕌 NoorifyBot</h3>

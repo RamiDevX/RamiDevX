@@ -16,7 +16,7 @@
   <!-- NoorifyBot Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="https://github.com/user-attachments/assets/9d223511-d649-4b63-986a-bcf27473d506" width="120" height="120" alt="NoorifyBot" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/user-attachments/assets/9d223511-d649-4b63-986a-bcf27473d506" width="120" height="120" alt="NoorifyBot" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 12px rgba(54, 188, 247, 0.3);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>🕌 NoorifyBot</h3>
@@ -26,16 +26,22 @@
         <img src="https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Aiogram" />
         <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
-      <a href="https://github.com/RamiDevX/Noorify-Bot">
-        <img src="https://img.shields.io/badge/View%20Repo-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
-      </a>
+      <p>
+        <a href="https://github.com/RamiDevX/Noorify-Bot">
+          <img src="https://img.shields.io/badge/View%20Repo-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/RamiDevX/Noorify-Bot">
+          <img src="https://img.shields.io/badge/Live%20Demo-FFD43B?style=for-the-badge&logo=telegram&logoColor=black" alt="Live Demo" />
+        </a>
+      </p>
     </td>
   </tr>
   
   <!-- Safaa AI Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="https://github.com/user-attachments/assets/b32d4430-a475-4f76-93da-9a1dc9b32676" width="120" height="120" alt="Safaa AI" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/user-attachments/assets/b32d4430-a475-4f76-93da-9a1dc9b32676" width="120" height="120" alt="Safaa AI" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 12px rgba(54, 188, 247, 0.3);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>🎵 Safaa AI</h3>
@@ -45,16 +51,22 @@
         <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
         <img src="https://img.shields.io/badge/-Demucs-8A2BE2?style=flat-square&logo=audiomack&logoColor=white" alt="Demucs" />
       </p>
-      <a href="https://github.com/RamiDevX/Safaa-AI">
-        <img src="https://img.shields.io/badge/View%20Repo-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
-      </a>
+      <p>
+        <a href="https://github.com/RamiDevX/Safaa-AI">
+          <img src="https://img.shields.io/badge/View%20Repo-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/RamiDevX/Safaa-AI">
+          <img src="https://img.shields.io/badge/Live%20Demo-FFD43B?style=for-the-badge&logo=telegram&logoColor=black" alt="Live Demo" />
+        </a>
+      </p>
     </td>
   </tr>
 
   <!-- Khulasa AI Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="https://github.com/user-attachments/assets/17b11d4b-7cc5-42c1-857a-ea1f35b09c96" width="120" height="120" alt="Khulasa AI" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/user-attachments/assets/17b11d4b-7cc5-42c1-857a-ea1f35b09c96" width="120" height="120" alt="Khulasa AI" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 12px rgba(54, 188, 247, 0.3);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>📝 Khulasa AI</h3>
@@ -64,9 +76,15 @@
         <img src="https://img.shields.io/badge/-Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black" alt="Ollama" />
         <img src="https://img.shields.io/badge/-Whisper-000000?style=flat-square&logo=openai&logoColor=white" alt="Whisper" />
       </p>
-      <a href="https://github.com/RamiDevX/Khulasa-AI">
-        <img src="https://img.shields.io/badge/View%20Repo-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
-      </a>
+      <p>
+        <a href="https://github.com/RamiDevX/Khulasa-AI">
+          <img src="https://img.shields.io/badge/View%20Repo-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/RamiDevX/Khulasa-AI">
+          <img src="https://img.shields.io/badge/Live%20Demo-FFD43B?style=for-the-badge&logo=openai&logoColor=black" alt="Live Demo" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>

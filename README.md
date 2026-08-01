@@ -16,9 +16,7 @@
   <!-- NoorifyBot Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="<img width="1254" height="1254" alt="photo_1_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/92a9b54a-8035-4e2b-ad20-d71d4cc408b3" />![Uploading photo_1_2026-08-01_15-50-05.jpg…]()
-
-" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="image_0.png" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>🕌 NoorifyBot</h3>
@@ -37,7 +35,7 @@
   <!-- Safaa AI Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="https://github.com/user-attachments/assets/20398022-e1f1-4f9f-8c62-87f12be2b928" width="160" alt="Safaa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="image_2.png" width="160" alt="Safaa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>🎵 Safaa AI</h3>
@@ -56,7 +54,7 @@
   <!-- Khulasa AI Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="https://github.com/user-attachments/assets/82ffbae8-fd80-4b32-af39-e91f8971ed22" width="160" alt="Khulasa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="image_1.png" width="160" alt="Khulasa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>📝 Khulasa AI</h3>

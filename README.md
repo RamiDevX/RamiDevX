@@ -84,72 +84,33 @@
 
 <br>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
+
 <div align="center">
-  <img src="https://img.shields.io/badge/🎓-Computer%20Programming%20Student-36BCF7?style=for-the-badge" alt="Student" />
-  <img src="https://img.shields.io/badge/💻-Backend%20Developer-36BCF7?style=for-the-badge" alt="Backend" />
-  <img src="https://img.shields.io/badge/🤖-AI%20%26%20Automation-36BCF7?style=for-the-badge" alt="AI" />
+
+```
+💻 Backend Developer  |  🤖 AI & Automation  |  📱 Bot Builder
+```
+
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 What I Do</h3>
-      <ul>
-        <li>🏗 <b>REST APIs</b> — Designing & implementing scalable APIs</li>
-        <li>💾 <b>Databases</b> — Structuring efficient data solutions</li>
-        <li>🤖 <b>AI Tools</b> — Building automation with intelligence</li>
-        <li>📱 <b>Telegram Bots</b> — Solving real-world problems</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💡 My Philosophy</h3>
-      <blockquote>
-        <p><i>"Exploring where automation meets AI — using Python and Aiogram to build bots that actually deliver value."</i></p>
-        <p>I care about code that's <b>readable</b>, <b>scalable</b>, and <b>easy to maintain</b>.</p>
-      </blockquote>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <code>REST APIs</code> · <code>Databases</code> · <code>AI Tools</code> · <code>Telegram Bots</code>
+</p>
 
-⚡️ Currently
-<div align="center">
-  <table width="90%">
-    <tr>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/🔭-Working%20On-FF6B6B?style=for-the-badge" alt="Working" />
-      </td>
-      <td width="75%">
-        <b>Khulasa AI</b> — a privacy-first meeting summarizer
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/🌱-Learning-4ECDC4?style=for-the-badge" alt="Learning" />
-      </td>
-      <td width="75%">
-        <b>Docker & CI/CD</b> — for deploying bots reliably
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/👯-Collaborate-FFE66D?style=for-the-badge" alt="Collaborate" />
-      </td>
-      <td width="75%">
-        <b>AI-powered Telegram bots</b> and backend architectures
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/💬-Ask%20Me%20About-95E1D3?style=for-the-badge" alt="Ask" />
-      </td>
-      <td width="75%">
-        <b>Python</b> · <b>Aiogram</b> · <b>REST APIs</b> · <b>Local AI</b> (Ollama/Whisper)
-      </td>
-    </tr>
-  </table>
-</div>
+> *"Building where automation meets AI — readable, scalable, maintainable code."*
 
+<br>
+
+## ⚡️ Currently
+
+| 🔭 Working On | Khulasa AI — privacy-first meeting summarizer |
+| :--- | :--- |
+| 🌱 Learning | Docker & CI/CD |
+| 👯 Collaborate | AI bots & backend architectures |
+| 💬 Ask Me About | Python · Aiogram · REST APIs · Ollama/Whisper |
+
+<br>
 
 ## 📊 GitHub Stats
 

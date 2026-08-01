@@ -181,5 +181,5 @@
 <br>
 
 <div align="center">
-  <p><b>Thanks for stopping by! 🙌</b></p>
+  <p><b>Thanks for stopping by! </b></p>
 </div>

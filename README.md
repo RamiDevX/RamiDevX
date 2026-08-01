@@ -16,7 +16,7 @@
   <!-- NoorifyBot Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="https://github.com/user-attachments/assets/9d223511-d649-4b63-986a-bcf27473d506" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/user-attachments/assets/9d223511-d649-4b63-986a-bcf27473d506" width="120" height="120" alt="NoorifyBot" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>🕌 NoorifyBot</h3>
@@ -35,7 +35,7 @@
   <!-- Safaa AI Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="https://github.com/user-attachments/assets/b32d4430-a475-4f76-93da-9a1dc9b32676" width="160" alt="Safaa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/user-attachments/assets/b32d4430-a475-4f76-93da-9a1dc9b32676" width="120" height="120" alt="Safaa AI" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>🎵 Safaa AI</h3>
@@ -54,7 +54,7 @@
   <!-- Khulasa AI Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="https://github.com/user-attachments/assets/17b11d4b-7cc5-42c1-857a-ea1f35b09c96" width="160" alt="Khulasa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/user-attachments/assets/17b11d4b-7cc5-42c1-857a-ea1f35b09c96" width="120" height="120" alt="Khulasa AI" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>📝 Khulasa AI</h3>
@@ -74,28 +74,6 @@
 <div align="center">
   <p><i>More projects coming soon.</i></p>
 </div>
-
-<br>
-
-## 👨‍💻 About Me
-
-I'm a Computer Programming student focused on backend development and building practical, real-world software.
-
-- 🏗 Designing and implementing REST APIs
-- 💾 Structuring databases efficiently
-- 🤖 Building AI-powered automation tools
-- 📱 Developing Telegram bots that solve real problems
-
-Right now I'm exploring where automation meets AI — using Python and Aiogram to build bots that actually deliver value. I care about code that's readable, scalable, and easy to maintain.
-
-<br>
-
-## ⚡️ Currently
-
-- 🔭 Working on: Khulasa AI — a privacy-first meeting summarizer.
-- 🌱 Learning: Docker & CI/CD for deploying bots reliably.
-- 👯 Open to collaborate on: AI-powered Telegram bots and backend architectures.
-- 💬 Ask me about: Python, Aiogram, REST APIs, and local AI integration (Ollama/Whisper).
 
 <br>
 

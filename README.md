@@ -16,7 +16,8 @@
   <!-- NoorifyBot Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="image_3.png" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="image_3.png" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" /> <img width="1254" height="1254" alt="photo_1_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/57e6292e-8087-44f3-a1da-53f5509951a4" />
+"
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>🕌 NoorifyBot</h3>

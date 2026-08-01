@@ -5,6 +5,9 @@
 <a href="https://github.com/RamiDevX">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Building+APIs+%26+Bots;Python+%7C+Automation+%7C+AI&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true" alt="Typing SVG" />
 </a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,20,25,30,35&height=4&section=header" width="100%">
+</div>
 
 </div>
 

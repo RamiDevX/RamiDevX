@@ -12,13 +12,13 @@
 ## 🚀 Featured Projects
 
 <table width="100%" style="border-collapse: collapse; border: none;">
-  <!-- Noorify Bot Project -->
+  <!-- NoorifyBot Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
       <img src="https://github.com/user-attachments/assets/9d223511-d649-4b63-986a-bcf27473d506" width="120" height="120" alt="NoorifyBot" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 12px rgba(54, 188, 247, 0.3);" />
     </td>
     <td width="75%" style="padding: 15px;">
-      <h3>🕌 NoorifyBot</h3>
+      <h3>🕌 Noorify Bot</h3>
       <p>A Telegram bot delivering scheduled Quran verses, Hadiths & Islamic reminders to keep users connected to their faith.</p>
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />

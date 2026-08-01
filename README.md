@@ -1,3 +1,6 @@
+<img width="1254" height="1254" alt="photo_3_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/17b11d4b-7cc5-42c1-857a-ea1f35b09c96" />
+<img width="1254" height="1254" alt="photo_2_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/b32d4430-a475-4f76-93da-9a1dc9b32676" />
+<img width="1254" height="1254" alt="photo_1_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/9d223511-d649-4b63-986a-bcf27473d506" />
 <div align="center">
 
 # Hi, I'm Rami Bitar 👋

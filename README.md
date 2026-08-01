@@ -2,7 +2,7 @@
 
 # Hi, I'm Rami Bitar 👋
 
-<img src="https://readme-typing-svg.demolab.com/?lines=software+Developer;Building+APIs+%26+Bots;Python+%7C+Automation+%7C+AI&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Building+APIs+%26+Bots;Python+%7C+Automation+%7C+AI&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true" alt="Typing animation: Software Developer, Building APIs and Bots, Python | Automation | AI" />
 
 </div>
 
@@ -21,13 +21,23 @@ Right now I'm exploring where **automation** meets **AI** — using Python and A
 
 <br>
 
+## Currently
+
+- 🔭 **Working on:** Khulasa AI — a privacy-first meeting summarizer
+- 🌱 **Learning:** Docker & CI/CD pipelines
+- 👯 **Open to collaborate on:** AI-powered Telegram bots
+- 💬 **Ask me about:** Python, REST APIs, Telegram bots, local AI tooling
+- 📫 **Reach me at:** ramibitar.connect@gmail.com
+
+<br>
+
 ## Featured Projects
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|-----------|-----------|
-| **NoorifyBot** | Telegram bot delivering scheduled Quran verses, Hadiths & Islamic reminders | `Python` `Aiogram` `SQLite` | [View Repo](https://github.com/RamiDevX/Noorify_Bot) |
-| **Safaa AI** | AI-powered Telegram bot that isolates vocals from music using Demucs | `Python` `Aiogram` `Demucs` `PyTorch` | [View Repo](https://github.com/RamiDevX/Safaa-AI) |
-| **Khulasa AI** | Privacy-first meeting summarizer — turns voice recordings into summaries & action items using local AI | `Python` `Aiogram` `Ollama` `Whisper` `SQLite` | [View Repo](https://github.com/RamiDevX/Khulasa-AI) |
+| Project | Description | Tech Stack | Repo |
+|---|---|---|---|
+| **NoorifyBot** | Telegram bot delivering scheduled Quran verses, Hadiths & Islamic reminders | `Python` `Aiogram` `SQLite` | [View Repo](https://github.com/RamiDevX/Noorify_Bot) ![Stars](https://img.shields.io/github/stars/RamiDevX/Noorify_Bot?style=flat&label=%E2%98%85) |
+| **Safaa AI** | AI-powered Telegram bot that isolates vocals from music using Demucs | `Python` `Aiogram` `Demucs` `PyTorch` | [View Repo](https://github.com/RamiDevX/Safaa-AI) ![Stars](https://img.shields.io/github/stars/RamiDevX/Safaa-AI?style=flat&label=%E2%98%85) |
+| **Khulasa AI** | Privacy-first meeting summarizer — turns voice recordings into summaries & action items using local AI | `Python` `Aiogram` `Ollama` `Whisper` `SQLite` | [View Repo](https://github.com/RamiDevX/Khulasa-AI) ![Stars](https://img.shields.io/github/stars/RamiDevX/Khulasa-AI?style=flat&label=%E2%98%85) |
 
 <div align="center">
   <p><i>More projects coming soon.</i></p>
@@ -39,7 +49,24 @@ Right now I'm exploring where **automation** meets **AI** — using Python and A
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,sqlite,git,github,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,sqlite,git,github,docker,arduino&theme=dark" alt="Tech stack icons: Python, JavaScript, HTML, CSS, MySQL, SQLite, Git, GitHub, Docker, Arduino" />
+
+</div>
+
+<div align="center">
+
+`Aiogram` &nbsp;·&nbsp; `PyTorch` &nbsp;·&nbsp; `Whisper` &nbsp;·&nbsp; `Ollama` &nbsp;·&nbsp; `Demucs`
+
+</div>
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RamiDevX&show_icons=true&theme=tokyonight&hide_border=true" alt="RamiDevX's GitHub stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamiDevX&theme=tokyonight&hide_border=true" alt="RamiDevX's GitHub streak stats" height="165" />
 
 </div>
 

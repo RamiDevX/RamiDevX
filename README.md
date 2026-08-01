@@ -103,32 +103,58 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,20,25,30,35&height=4&section=header" width="100%">
 </div>
 
-## 🚀 Tech Arsenal
+## 🛠 Tech Stack & Tools
 
-<p align="center">
+<div align="center">
+  <table width="100%" style="border-collapse: separate; border-spacing: 14px;">
+    <tr>
+      <td width="50%" align="center" style="background: rgba(54, 188, 247, 0.05); border: 1px solid rgba(54, 188, 247, 0.18); border-radius: 16px; padding: 20px; vertical-align: top;">
+        <h3 style="color: #36BCF7; margin: 0 0 14px 0; font-size: 18px;">💻 Languages</h3>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+          <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+        </div>
+      </td>
 
-### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,arduino"/>
+  <td width="50%" align="center" style="background: rgba(54, 188, 247, 0.05); border: 1px solid rgba(54, 188, 247, 0.18); border-radius: 16px; padding: 20px; vertical-align: top;">
+    <h3 style="color: #36BCF7; margin: 0 0 14px 0; font-size: 18px;">🗄️ Backend & Databases</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    </div>
+  </td>
+</tr>
 
-### Backend
+<tr>
+  <td width="50%" align="center" style="background: rgba(54, 188, 247, 0.05); border: 1px solid rgba(54, 188, 247, 0.18); border-radius: 16px; padding: 20px; vertical-align: top;">
+    <h3 style="color: #36BCF7; margin: 0 0 14px 0; font-size: 18px;">🤖 AI, Audio & Automation</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
+      <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
+      <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
+      <img src="https://img.shields.io/badge/Demucs-8A2BE2?style=for-the-badge&logo=audiomack&logoColor=white" alt="Demucs" />
+    </div>
+  </td>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+  <td width="50%" align="center" style="background: rgba(54, 188, 247, 0.05); border: 1px solid rgba(54, 188, 247, 0.18); border-radius: 16px; padding: 20px; vertical-align: top;">
+    <h3 style="color: #36BCF7; margin: 0 0 14px 0; font-size: 18px;">⚙️ DevOps & Workflow</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </div>
+  </td>
+</tr>
 
-### AI & Bots
 
-<img src="https://skillicons.dev/icons?i=pytorch,docker"/>
+  </table>
+</div>
 
-<img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Whisper-000000?style=flat-square&logo=openai"/>
-<img src="https://img.shields.io/badge/Demucs-8A2BE2?style=flat-square"/>
-
-### Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
-
-</p>
 
 ## 🌐 Connect with Me
 

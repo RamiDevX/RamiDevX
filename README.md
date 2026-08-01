@@ -83,34 +83,7 @@
 </div>
 
 <br>
-
-## 👨‍💻 About Me
-
-<div align="center">
-
-```
-💻 Backend Developer  |  🤖 AI & Automation  |  📱 Bot Builder
-```
-
-</div>
-
-<p align="center">
-  <code>REST APIs</code> · <code>Databases</code> · <code>AI Tools</code> · <code>Telegram Bots</code>
-</p>
-
-> *"Building where automation meets AI — readable, scalable, maintainable code."*
-
-<br>
-
-## ⚡️ Currently
-
-| 🔭 Working On | Khulasa AI — privacy-first meeting summarizer |
-| :--- | :--- |
-| 🌱 Learning | Docker & CI/CD |
-| 👯 Collaborate | AI bots & backend architectures |
-| 💬 Ask Me About | Python · Aiogram · REST APIs · Ollama/Whisper |
-
-<br>
+---
 
 ## 📊 GitHub Stats
 

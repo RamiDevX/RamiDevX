@@ -86,16 +86,54 @@
 
 <br>
 
-## 🛠 Tech Stack
+## 🛠 Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,sqlite,git,github,docker,pytorch,arduino&theme=dark" alt="Tech stack: Python, JavaScript, HTML, CSS, MySQL, SQLite, Git, GitHub, Docker, PyTorch, Arduino" />
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Also working heavily with: <b>Aiogram</b> · <b>Ollama</b> · <b>Whisper</b> · <b>Demucs</b></sub>
+  <table style="border: none; border-collapse: collapse; width: 100%;">
+    <tr>
+      <td align="center" style="padding: 15px; width: 50%;">
+        <h3>🤖 AI & Machine Learning</h3>
+        <p>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+          <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
+          <br>
+          <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
+          <img src="https://img.shields.io/badge/Demucs-8A2BE2?style=for-the-badge&logo=audiomack&logoColor=white" alt="Demucs" />
+        </p>
+      </td>
+      <td align="center" style="padding: 15px; width: 50%;">
+        <h3>💻 Languages & Core</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+          <br>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 15px; width: 50%;">
+        <h3>🗄️ Backend & Databases</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+          <br>
+          <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+        </p>
+      </td>
+      <td align="center" style="padding: 15px; width: 50%;">
+        <h3>⚙️ DevOps & Tools</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+          <br>
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>

@@ -101,9 +101,9 @@
 
 <br>
 
-<p align="center">
-  ✨ ── ⚡ ── 🚀 ── ⚡ ── ✨
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,20,30,6&height=3&section=header" width="100%">
+</div>
 
 ## 🛠 Tech Stack & Tools
 

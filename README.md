@@ -105,28 +105,27 @@
 ## 🛠 Tech Stack & Tools
 
 <div align="center">
-  <table width="100%" style="border-collapse: collapse; border: none;">
+  <table width="100%" style="border-collapse: separate; border-spacing: 10px;">
     <tr>
-      <td width="50%" align="center" style="padding: 15px; vertical-align: top;">
-        <h3>💻 Languages & Databases</h3>
-        <br>
+      <td width="50%" align="center" style="background: rgba(255, 255, 255, 0.02); border-radius: 10px; padding: 15px; vertical-align: top;">
+        <h4 style="color: #36BCF7; margin: 0 0 10px 0;">💻 Languages & Databases</h4>
         <img src="https://skillicons.dev/icons?i=python,js,html,css,arduino,mysql,sqlite&perline=4" alt="Languages and DBs" />
       </td>
-      <td width="50%" align="center" style="padding: 15px; vertical-align: top;">
-        <h3>⚙️ DevOps & Workflow</h3>
-        <br>
-        <img src="https://skillicons.dev/icons?i=docker,git,github,pytorch&perline=4" alt="DevOps and AI" />
+      <td width="50%" align="center" style="background: rgba(255, 255, 255, 0.02); border-radius: 10px; padding: 15px; vertical-align: top;">
+        <h4 style="color: #36BCF7; margin: 0 0 10px 0;">🤖 AI & Automation</h4>
+        <p style="margin: 0;">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+          <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Aiogram" />
+          <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black" alt="Ollama" />
+          <img src="https://img.shields.io/badge/Whisper-000000?style=flat-square&logo=openai&logoColor=white" alt="Whisper" />
+          <img src="https://img.shields.io/badge/Demucs-8A2BE2?style=flat-square&logo=audiomack&logoColor=white" alt="Demucs" />
+        </p>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" style="padding: 15px;">
-        <h3>🤖 AI, Audio & Automation Frameworks</h3>
-        <p style="margin-top: 10px;">
-          <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
-          <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
-          <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
-          <img src="https://img.shields.io/badge/Demucs-8A2BE2?style=for-the-badge&logo=audiomack&logoColor=white" alt="Demucs" />
-        </p>
+      <td colspan="2" align="center" style="background: rgba(255, 255, 255, 0.02); border-radius: 10px; padding: 15px; vertical-align: top;">
+        <h4 style="color: #36BCF7; margin: 0 0 10px 0;">⚙️ DevOps & Workflow</h4>
+        <img src="https://skillicons.dev/icons?i=docker,git,github&perline=3" alt="DevOps" />
       </td>
     </tr>
   </table>

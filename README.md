@@ -31,7 +31,7 @@
         </a>
         &nbsp;
         <a href="https://github.com/RamiDevX/Noorify-Bot">
-          <img src="https://img.shields.io/badge/Star%20Repo-FFD43B?style=for-the-badge&logo=github&logoColor=black" alt="Star Repo" />
+          <img src="https://img.shields.io/badge/⭐%20Star%20this%20Repo-FFD43B?style=for-the-badge&logo=github&logoColor=black" alt="Star this Repo" />
         </a>
       </p>
     </td>
@@ -56,7 +56,7 @@
         </a>
         &nbsp;
         <a href="https://github.com/RamiDevX/Safaa-AI">
-          <img src="https://img.shields.io/badge/Star%20Repo-FFD43B?style=for-the-badge&logo=github&logoColor=black" alt="Star Repo" />
+          <img src="https://img.shields.io/badge/⭐%20Star%20this%20Repo-FFD43B?style=for-the-badge&logo=github&logoColor=black" alt="Star this Repo" />
         </a>
       </p>
     </td>
@@ -81,7 +81,7 @@
         </a>
         &nbsp;
         <a href="https://github.com/RamiDevX/Khulasa-AI">
-          <img src="https://img.shields.io/badge/Star%20Repo-FFD43B?style=for-the-badge&logo=github&logoColor=black" alt="Star Repo" />
+          <img src="https://img.shields.io/badge/⭐%20Star%20this%20Repo-FFD43B?style=for-the-badge&logo=github&logoColor=black" alt="Star this Repo" />
         </a>
       </p>
     </td>

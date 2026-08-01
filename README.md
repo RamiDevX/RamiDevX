@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Building+APIs+%26+Bots;Python+%7C+Automation+%7C+AI&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true" alt="Typing SVG" />
 </a>
 
-<br><br>
+</div>
+
+<br>
 
 ## 🚀 Featured Projects
 
@@ -14,7 +16,7 @@
   <!-- NoorifyBot Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="image_3.png" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/user-attachments/assets/0be8697d-59cc-4d84-8ed6-2a6213410f7a" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>🕌 NoorifyBot</h3>
@@ -33,7 +35,7 @@
   <!-- Safaa AI Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="image_5.png" width="160" alt="Safaa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/user-attachments/assets/20398022-e1f1-4f9f-8c62-87f12be2b928" width="160" alt="Safaa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>🎵 Safaa AI</h3>
@@ -52,7 +54,7 @@
   <!-- Khulasa AI Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="image_4.png" width="160" alt="Khulasa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/user-attachments/assets/82ffbae8-fd80-4b32-af39-e91f8971ed22" width="160" alt="Khulasa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>📝 Khulasa AI</h3>
@@ -75,11 +77,28 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
-</div>
+## 👨‍💻 About Me
+
+I'm a Computer Programming student focused on backend development and building practical, real-world software.
+
+- 🏗 Designing and implementing REST APIs
+- 💾 Structuring databases efficiently
+- 🤖 Building AI-powered automation tools
+- 📱 Developing Telegram bots that solve real problems
+
+Right now I'm exploring where automation meets AI — using Python and Aiogram to build bots that actually deliver value. I care about code that's readable, scalable, and easy to maintain.
 
 <br>
+
+## ⚡️ Currently
+
+- 🔭 Working on: Khulasa AI — a privacy-first meeting summarizer.
+- 🌱 Learning: Docker & CI/CD for deploying bots reliably.
+- 👯 Open to collaborate on: AI-powered Telegram bots and backend architectures.
+- 💬 Ask me about: Python, Aiogram, REST APIs, and local AI integration (Ollama/Whisper).
+
+<br>
+
 ## 📊 GitHub Stats
 
 <div align="center">

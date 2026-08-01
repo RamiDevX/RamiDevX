@@ -1,6 +1,3 @@
-<img width="1254" height="1254" alt="photo_3_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/17b11d4b-7cc5-42c1-857a-ea1f35b09c96" />
-<img width="1254" height="1254" alt="photo_2_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/b32d4430-a475-4f76-93da-9a1dc9b32676" />
-<img width="1254" height="1254" alt="photo_1_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/9d223511-d649-4b63-986a-bcf27473d506" />
 <div align="center">
 
 # Hi, I'm Rami Bitar 👋
@@ -19,7 +16,7 @@
   <!-- NoorifyBot Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="image_6.png" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/user-attachments/assets/9d223511-d649-4b63-986a-bcf27473d506" width="160" alt="NoorifyBot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>🕌 NoorifyBot</h3>
@@ -38,7 +35,7 @@
   <!-- Safaa AI Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="image_8.png" width="160" alt="Safaa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/user-attachments/assets/b32d4430-a475-4f76-93da-9a1dc9b32676" width="160" alt="Safaa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>🎵 Safaa AI</h3>
@@ -57,7 +54,7 @@
   <!-- Khulasa AI Project -->
   <tr>
     <td width="25%" align="center" style="padding: 15px;">
-      <img src="image_7.png" width="160" alt="Khulasa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://github.com/user-attachments/assets/17b11d4b-7cc5-42c1-857a-ea1f35b09c96" width="160" alt="Khulasa AI" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="75%" style="padding: 15px;">
       <h3>📝 Khulasa AI</h3>

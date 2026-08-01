@@ -101,6 +101,9 @@
 
 <br>
 
+<p align="center">
+  ✨ ── ⚡ ── 🚀 ── ⚡ ── ✨
+</p>
 
 ## 🛠 Tech Stack & Tools
 

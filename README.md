@@ -1,4 +1,6 @@
 
+<div align="center">
+
 # Hi, I'm Rami Bitar 👋
 
 <a href="https://github.com/RamiDevX">

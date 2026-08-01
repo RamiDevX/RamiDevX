@@ -197,16 +197,6 @@
 </div>
 
 
-
-
 <div align="center">
-
-  <!-- 1. خط متحرك متدرج الألوان -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-  
-  <br><br>
-
-  <!-- 2. خط نيون أزرق متحرك -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-21e7-439c-8378-f78f1af2c71e.gif" width="100%">
-  
-  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,20,25,30,35&height=4&section=header" width="100%">
+</div>

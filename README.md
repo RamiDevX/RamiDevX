@@ -1,3 +1,6 @@
+<img width="1254" height="1254" alt="photo_3_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/19818b23-d2c2-4a1d-bea6-b13bc1c56951" />
+<img width="1254" height="1254" alt="photo_2_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/5062a1a4-c025-4fb9-a8b5-2102997f11a7" />
+<img width="1254" height="1254" alt="photo_1_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/1d825606-8c04-48de-bf29-dc6730c22740" />
 
 <div align="center">
 

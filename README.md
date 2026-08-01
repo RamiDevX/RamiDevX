@@ -66,6 +66,7 @@ Right now I'm exploring where **automation** meets **AI** — using Python and A
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RamiDevX&show_icons=true&theme=tokyonight&hide_border=true" alt="RamiDevX's GitHub stats" height="165" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamiDevX&theme=tokyonight&hide_border=true" alt="RamiDevX's GitHub streak stats" height="165" />
 
 </div>

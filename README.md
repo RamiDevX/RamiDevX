@@ -2,7 +2,7 @@
 
 # Hi, I'm Rami Bitar 👋
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Building+APIs+%26+Bots;Python+%7C+Automation+%7C+AI&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true" />
+<img src="https://readme-typing-svg.demolab.com/?lines=software+Developer;Building+APIs+%26+Bots;Python+%7C+Automation+%7C+AI&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true" />
 
 </div>
 

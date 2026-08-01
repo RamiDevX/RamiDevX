@@ -219,14 +219,3 @@
   <!-- 4. خط نيون بنفسجي متحرك -->
   <img src="https://user-images.githubusercontent.com/74038190/212284120-729bc9dd-807d-4cf9-9833-2a4c142d76f0.gif" width="100%">
   
-  <br><br>
-
-  <!-- 5. فاصل تدرج لوني Sunset (أصفر إلى برتقالي ووردي) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,20,25,30,35&height=4&section=header" width="100%">
-  
-  <br><br>
-
-  <!-- 6. خط نيون أخضر متحرك -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284125-a1306385-aa38-4e8c-90b4-52d24269e8ae.gif" width="100%">
-
-</div>

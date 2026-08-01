@@ -210,12 +210,3 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-21e7-439c-8378-f78f1af2c71e.gif" width="100%">
   
   <br><br>
-
-  <!-- 3. فاصل تدرج لوني أزرق (Ocean Blue) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,8,12,16&height=4&section=header" width="100%">
-  
-  <br><br>
-
-  <!-- 4. خط نيون بنفسجي متحرك -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284120-729bc9dd-807d-4cf9-9833-2a4c142d76f0.gif" width="100%">
-  

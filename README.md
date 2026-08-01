@@ -102,7 +102,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,20,30,6&height=3&section=header" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-21e7-439c-8378-f78f1af2c71e.gif" width="100%">
 </div>
 
 ## 🛠 Tech Stack & Tools

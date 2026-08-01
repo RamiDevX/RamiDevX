@@ -150,6 +150,3 @@ Right now I'm exploring where **automation** meets **AI** — using Python and A
   <p><b>Thanks for stopping by! 🙌</b></p>
 </div>
 
-<img width="640" height="640" alt="photo_2026-07-22_22-17-42" src="https://github.com/user-attachments/assets/eb654692-b5ef-488e-a461-be41979d7e63" />
-<img width="640" height="640" alt="photo_2026-07-11_11-53-12" src="https://github.com/user-attachments/assets/a2ed6145-1284-4b41-97f4-23209116a7f1" />
-<img width="640" height="640" alt="photo_2026-07-11_09-14-34" src="https://github.com/user-attachments/assets/7703b6b4-9c47-4d10-b2cd-ef21ffdc0fdb" />

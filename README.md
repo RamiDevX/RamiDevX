@@ -81,11 +81,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 </div>
 
-<br><img width="1254" height="1254" alt="photo_3_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/527fd574-6583-42d5-abb1-bb482f1b07b1" />
-<img width="1254" height="1254" alt="photo_2_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/ebfefb7b-730d-4405-a8fb-4f76494e1445" />
-<img width="1254" height="1254" alt="photo_1_2026-08-01_15-50-05" src="https://github.com/user-attachments/assets/95c11cbd-3918-431b-bf60-1f0b9760b92c" />
-
-
+<br>
 ## 📊 GitHub Stats
 
 <div align="center">

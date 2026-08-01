@@ -8,10 +8,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284120-729bc9dd-807d-4cf9-9833-2a4c142d76f0.gif" width="100%">
-</div>
-
 <br>
 ## 🚀 Featured Projects
 

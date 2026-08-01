@@ -27,7 +27,7 @@
         <img src="https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Aiogram" />
         <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
-      <a href="https://github.com/RamiDevX/NoorifyBot">
+      <a href="https://github.com/RamiDevX/Noorify-Bot">
         <img src="https://img.shields.io/badge/View%20Repo-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
       </a>
     </td>

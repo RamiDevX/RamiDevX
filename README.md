@@ -103,6 +103,21 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,20,25,30,35&height=4&section=header" width="100%">
 </div>
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="./profile/stats.svg" alt="RamiDevX's GitHub stats" height="165" />
+  <img src="./profile/streak.svg" alt="RamiDevX's GitHub streak stats" height="165" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
 ## 🛠 Tech Stack & Tools
 
 <div align="center">

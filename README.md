@@ -106,57 +106,45 @@
 ## 🛠 Tech Stack & Tools
 
 <div align="center">
-  <table width="100%" style="border-collapse: separate; border-spacing: 12px;">
-    <tr>
-      =
-      <td width="50%" align="center" style="background: linear-gradient(135deg, rgba(54, 188, 247, 0.05) 0%, rgba(54, 188, 247, 0.01) 100%); border: 1px solid rgba(54, 188, 247, 0.25); border-radius: 12px; padding: 20px; vertical-align: top; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-        <h3 style="color: #36BCF7; margin-top: 0; margin-bottom: 15px; font-size: 16px; font-weight: 600;">💻 Languages</h3>
-        <p style="margin: 0; line-height: 1.8;">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-          <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-        </p>
-      </td>
 
-      
-      <!-- Backend & Databases Card -->
-      <td width="50%" align="center" style="background: linear-gradient(135deg, rgba(54, 188, 247, 0.05) 0%, rgba(54, 188, 247, 0.01) 100%); border: 1px solid rgba(54, 188, 247, 0.25); border-radius: 12px; padding: 20px; vertical-align: top; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-        <h3 style="color: #36BCF7; margin-top: 0; margin-bottom: 15px; font-size: 16px; font-weight: 600;">🗄️ Backend & Databases</h3>
-        <p style="margin: 0; line-height: 1.8;">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-          <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-    
-      <!-- AI & Automation Card -->
-      <td width="50%" align="center" style="background: linear-gradient(135deg, rgba(54, 188, 247, 0.05) 0%, rgba(54, 188, 247, 0.01) 100%); border: 1px solid rgba(54, 188, 247, 0.25); border-radius: 12px; padding: 20px; vertical-align: top; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-        <h3 style="color: #36BCF7; margin-top: 0; margin-bottom: 15px; font-size: 16px; font-weight: 600;">🤖 AI, Audio & Automation</h3>
-        <p style="margin: 0; line-height: 1.8;">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-          <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
-          <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
-          <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
-          <img src="https://img.shields.io/badge/Demucs-8A2BE2?style=for-the-badge&logo=audiomack&logoColor=white" alt="Demucs" />
-        </p>
-      </td>
-      
-      <!-- DevOps Card -->
-      <td width="50%" align="center" style="background: linear-gradient(135deg, rgba(54, 188, 247, 0.05) 0%, rgba(54, 188, 247, 0.01) 100%); border: 1px solid rgba(54, 188, 247, 0.25); border-radius: 12px; padding: 20px; vertical-align: top; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-        <h3 style="color: #36BCF7; margin-top: 0; margin-bottom: 15px; font-size: 16px; font-weight: 600;">⚙️ DevOps & Workflow</h3>
-        <p style="margin: 0; line-height: 1.8;">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </p>
-      </td>
-    </tr>
-  </table>
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,arduino" />
+</p>
+
+---
+
+### 🗄️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+---
+
+### 🤖 AI • Automation • Bots
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,docker" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Whisper-000000?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/Demucs-8A2BE2?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙️ DevOps & Version Control
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+</p>
+
 </div>
-
 ## 🌐 Connect with Me
 
 <div align="center">

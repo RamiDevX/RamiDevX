@@ -171,7 +171,7 @@
 <a href="mailto:ramibitar.connect@gmail.com">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="40" height="40" alt="Gmail" style="margin: 0 10px;"/>
 </a>
-<a href="https://linktr.ee/ramibitarr">
+<a href="https://linktr.ee/ramibitardevx">
   <img src="https://cdn.simpleicons.org/linktree/43E55E" width="40" height="40" alt="Linktree" style="margin: 0 10px;"/>
 </a>
 

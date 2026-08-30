@@ -75,10 +75,10 @@
 <a href="https://linkedin.com/in/rami-bitar-16479936b">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" height="40" alt="LinkedIn" style="margin: 0 10px;"/>
 </a>
-<a href="https://t.me/ramidevx">
+<a href="https://t.me/e_9dx">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" width="40" height="40" alt="Telegram" style="margin: 0 10px;"/>
 </a>
-<a href="https://www.instagram.com/ramidevx/">
+<a href="https://www.instagram.com/e_9dx/">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="40" height="40" alt="Instagram" style="margin: 0 10px;"/>
 </a>
 <a href="mailto:ramibitar.connect@gmail.com">

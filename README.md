@@ -12,38 +12,20 @@
 
 ## 🛠 Tech Stack & Tools
 
-<div align="center">
-  <table width="100%" style="border-collapse: separate; border-spacing: 14px;">
-    <tr>
-      <td width="50%" align="center" style="background: rgba(54, 188, 247, 0.05); border: 1px solid rgba(54, 188, 247, 0.18); border-radius: 16px; padding: 20px; vertical-align: top;">
-        <h3 style="color: #36BCF7; margin: 0 0 14px 0; font-size: 18px;">💻 Languages</h3>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        </div>
-      </td>
+## 🛠 Tech Stack & Tools
 
-  <td width="50%" align="center" style="background: rgba(54, 188, 247, 0.05); border: 1px solid rgba(54, 188, 247, 0.18); border-radius: 16px; padding: 20px; vertical-align: top;">
-    <h3 style="color: #36BCF7; margin: 0 0 14px 0; font-size: 18px;">🗄️ Databases</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-    </div>
-  </td>
-</tr>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<tr>
-  <td width="100%" align="center" style="background: rgba(54, 188, 247, 0.05); border: 1px solid rgba(54, 188, 247, 0.18); border-radius: 16px; padding: 20px; vertical-align: top;">
-    <h3 style="color: #36BCF7; margin: 0 0 14px 0; font-size: 18px;">⚙️ Workflow</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </div>
-  </td>
-</tr>
-  </table>
-</div>
+### 🗄️ Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ⚙️ Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📚 Currently Learning
 

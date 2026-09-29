@@ -25,18 +25,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📚 Currently Learning
-
-<div align="center">
-  <table width="100%" style="border-collapse: separate; border-spacing: 14px;">
-    <tr>
-      <td width="100%" align="center" style="background: rgba(54, 188, 247, 0.05); border: 1px solid rgba(54, 188, 247, 0.18); border-radius: 16px; padding: 20px;">
-        <p style="margin: 0;">Backend fundamentals · JavaScript · Automation & AI-assisted development — rebuilding early projects from scratch to actually understand them, not just ship them.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">

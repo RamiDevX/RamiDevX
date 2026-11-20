@@ -32,15 +32,6 @@ I'm a computer programming student focused on Python and backend development. I 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## GitHub stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rvz9q&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub stats for rvz9q" />
-  <img src="https://streak-stats.demolab.com/?user=rvz9q&hide_border=true&theme=default" height="165" alt="GitHub contribution streak for rvz9q" />
-</div>
-
----
-
 <div align="center">
 
 Thanks for stopping by! ✨

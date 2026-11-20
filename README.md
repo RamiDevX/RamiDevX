@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rami Bitar 👋
+# Hi, I'm Rami Bitar
 
 <a href="https://github.com/RamiDevX">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Programming+Student;Learning+Python+%26+Backend+Development;Building+real+projects%2C+one+step+at+a+time&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&pause=1000&size=20" alt="Computer programming student | Learning Python and backend development | Building real projects" />
@@ -34,8 +34,5 @@ I'm a computer programming student focused on Python and backend development. I 
 
 <div align="center">
 
-Thanks for stopping by! ✨
-
-[GitHub](https://github.com/rvz9q) · [LinkedIn](https://www.linkedin.com/in/rami-bitar-16479936b/) · [Telegram](https://t.me/rvz9q) · [Instagram](https://www.instagram.com/rvz9q/) · [Email](mailto:ramibitar.connect@gmail.com)
-
+Thanks for stopping by!
 </div>

@@ -7,9 +7,11 @@
 </a>
 
 <p>
-  <a href="https://github.com/rvz9q"><img src="https://img.shields.io/badge/GitHub-rvz9q-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/rami-bitar-16479936b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://t.me/rm_bit"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://github.com/rvz9q"><img src="https://img.shields.io/badge/GitHub-rvz9q-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/rami-bitar-16479936b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/rvz9q"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/rvz9q/"><img src="https://img.shields.io/badge/Instagram-rvz9q-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:ramibitar.connect@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -35,7 +37,7 @@ I'm a computer programming student focused on Python and backend development. I 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rvz9q&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub stats for rvz9q" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvz9q&hide_border=true&theme=default" height="165" alt="GitHub contribution streak for rvz9q" />
+  <img src="https://streak-stats.demolab.com/?user=rvz9q&hide_border=true&theme=default" height="165" alt="GitHub contribution streak for rvz9q" />
 </div>
 
 ---
@@ -43,5 +45,7 @@ I'm a computer programming student focused on Python and backend development. I 
 <div align="center">
 
 Thanks for stopping by! ✨
+
+[GitHub](https://github.com/rvz9q) · [LinkedIn](https://www.linkedin.com/in/rami-bitar-16479936b/) · [Telegram](https://t.me/rvz9q) · [Instagram](https://www.instagram.com/rvz9q/) · [Email](mailto:ramibitar.connect@gmail.com)
 
 </div>

@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <a href="https://github.com/rvz9q"><img src="https://img.shields.io/badge/GitHub-rvz9q-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/RamiDevX"><img src="https://img.shields.io/badge/GitHub-rvz9q-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/rami-bitar-16479936b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/rvz9q"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.instagram.com/rvz9q/"><img src="https://img.shields.io/badge/Instagram-rvz9q-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>

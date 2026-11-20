@@ -2,58 +2,46 @@
 
 # Hi, I'm Rami Bitar 👋
 
-<a href="https://github.com/RamiDevX">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Programming+Student;Learning+Python+%26+Backend+Dev;Building+Real+Projects%2C+One+Step+at+a+Time&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true" alt="Typing SVG" />
+<a href="https://github.com/rvz9q">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Programming+Student;Learning+Python+%26+Backend+Development;Building+real+projects%2C+one+step+at+a+time&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&pause=1000&size=20" alt="Computer programming student | Learning Python and backend development | Building real projects" />
 </a>
+
+<p>
+  <a href="https://github.com/rvz9q"><img src="https://img.shields.io/badge/GitHub-rvz9q-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/rami-bitar-16479936b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/rm_bit"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
 
 </div>
 
-<br>
+---
 
-## 🛠 Tech Stack & Tools
+## About me
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I'm a computer programming student focused on Python and backend development. I enjoy learning by building practical projects and improving one step at a time.
 
-### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+## Tech stack
 
-### ⚙️ Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
-## 📊 GitHub Stats
+## GitHub stats
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="RamiDevX's GitHub stats" height="165" />
-  <img src="./profile/streak.svg" alt="RamiDevX's GitHub streak stats" height="165" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=rvz9q&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub stats for rvz9q" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvz9q&hide_border=true&theme=default" height="165" alt="GitHub contribution streak for rvz9q" />
 </div>
 
-## 🌐 Connect with Me
+---
 
 <div align="center">
 
-<a href="https://linkedin.com/in/rami-bitar-16479936b">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" height="40" alt="LinkedIn" style="margin: 0 10px;"/>
-</a>
-<a href="https://t.me/rm_bit">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" width="40" height="40" alt="Telegram" style="margin: 0 10px;"/>
-</a>
-<a href="https://www.instagram.com/rm.bit/">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="40" height="40" alt="Instagram" style="margin: 0 10px;"/>
-</a>
-<a href="mailto:ramibitar.connect@gmail.com">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="40" height="40" alt="Gmail" style="margin: 0 10px;"/>
-</a>
+Thanks for stopping by! ✨
 
-</div>
-
-<br>
-
-<div align="center">
-  <p><b>Thanks for stopping by! </b></p>
 </div>
